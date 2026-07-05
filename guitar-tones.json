@@ -30130,5 +30130,2546 @@
       }
     ],
     "url": "https://guitartoneadapt.com/tone/samurai-heart--spyair--riff--distorted--guitar/"
+  },
+  {
+    "song": "Cendrillon",
+    "artist": "Telephone",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Vox AC30 pushed to full volume — with a Gibson SG Junior (P90)",
+      "notes": "Louis Bertignac’s rig is famously simple: a Gibson ’63 SG Junior (a single P90, modified by Jacobacci) into a Vox AC30 cranked to full volume. That’s the raw, bright, edge-of-breakup-into-crunch French rock tone — all amp, mid-forward P90 bite, treble up.",
+      "guitar": "",
+      "pickups": "bridge P90 (SG Junior, raw & biting)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge P90 (SG Junior, raw & biting)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/louis-bertignac",
+        "title": "Louis Bertignac Gear — Equipboard"
+      },
+      {
+        "url": "https://matos-guitare.fr/tous-les-guitaristes/louis-bertignac/",
+        "title": "Les guitares de Louis Bertignac — Matos Guitare"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/cendrillon--telephone--riff--distorted--guitar/"
+  },
+  {
+    "song": "Le Vent Nous Portera",
+    "artist": "Noir Desir",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 5.5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Vox AC30 / Mesa V-Twin — clean, stripped-down, floating",
+      "notes": "Serge Teyssot-Gay built Le Vent Nous Portera around a very stripped-down, almost-still guitar line — a gentle, arpeggiated clean that advances without forcing, everything else floating around it. A Vox AC30 (also a Mesa/Boogie V-Twin) clean, bright and airy with a little reverb.",
+      "guitar": "",
+      "pickups": "neck (bright, clean, airy)"
+    },
+    "effects": [
+      "reverb"
+    ],
+    "pickup": "neck (bright, clean, airy)",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/serge-teyssot-gay",
+        "title": "Serge Teyssot-Gay Gear — Equipboard"
+      },
+      {
+        "url": "https://grokipedia.com/page/Le_vent_nous_portera",
+        "title": "Le vent nous portera — Grokipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/le-vent-nous-portera--noir-desir--riff--clean--guitar/"
+  },
+  {
+    "song": "Antisocial",
+    "artist": "Trust",
+    "genre": "metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall-style crunch (Iron Maiden-era influence) — driving French hard rock/metal",
+      "notes": "The definitive French hard-rock/metal anthem (1980). Norbert \"Nono\" Krief plays humbucker guitars (a Gibson Flying V famously, plus his Nonocaster) into Marshall-style amps — Trust toured with Iron Maiden, and that big Marshall sound is all over the era. A custom two-stage distortion pedal pushes it. Driving, mid-forward, medium-high gain.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, driving)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (humbucker, driving)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.guitariste.com/interviews/nono-guitariste-trust,5098,1.html",
+        "title": "Nono Krief (Trust) Interview — Guitariste.com"
+      },
+      {
+        "url": "https://www.matts-guitar-shop.com/les-legendes-du-rock/trust/",
+        "title": "Trust — Matt’s Guitar Shop"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/antisocial--trust--riff--distorted--guitar/"
+  },
+  {
+    "song": "LAventurier",
+    "artist": "Indochine",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender Twin Reverb / Princeton — bright clean-to-light-crunch, with slapback echo",
+      "notes": "The iconic 1982 Indochine new-wave anthem. Dominique Nicolas played a Fender Telecaster on the bridge pickup (also a Mustang) into a Fender Twin Reverb/Princeton. The signature intro uses a very short SLAPBACK echo (~120ms, single repeat), plus a flanger. Bright, jangly, treble-forward new-wave — clean-to-light-crunch.",
+      "guitar": "",
+      "pickups": "bridge (Telecaster, bright & jangly)"
+    },
+    "effects": [
+      "delay",
+      "distortion",
+      "flanger"
+    ],
+    "pickup": "bridge (Telecaster, bright & jangly)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.guitaretoday.com/le-son-mythique-dindochine-1982-le-materiel-exact-de-dominique-nicolas-pour-jouer-laventurier/",
+        "title": "Le son d’Indochine — Le matériel exact — Guitaretoday"
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/Dominique_Nicolas",
+        "title": "Dominique Nicolas — Wikipédia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/laventurier--indochine--riff--distorted--guitar/"
+  },
+  {
+    "song": "Un autre monde",
+    "artist": "Telephone",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5.5,
+      "bass": 5,
+      "mid": 6.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Vox AC30 cranked — Gibson SG Junior (P90), driving",
+      "notes": "A big Téléphone anthem. Louis Bertignac’s usual rig — a Gibson SG Junior (P90) into a cranked Vox AC30 — pushed a bit harder here for a driving, anthemic French rock crunch. Raw, mid-forward, all amp gain, treble up.",
+      "guitar": "",
+      "pickups": "bridge P90 (SG Junior, raw)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge P90 (SG Junior, raw)",
+    "confidence": 0.68,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/louis-bertignac",
+        "title": "Louis Bertignac Gear — Equipboard"
+      },
+      {
+        "url": "https://matos-guitare.fr/tous-les-guitaristes/louis-bertignac/",
+        "title": "Les guitares de Louis Bertignac — Matos Guitare"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/un-autre-monde--telephone--riff--distorted--guitar/"
+  },
+  {
+    "song": "Jai demande a la lune",
+    "artist": "Indochine",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright clean-to-light-crunch (Fender-style) — jangly modern new-wave/pop-rock",
+      "notes": "A huge 2002 Indochine comeback single. In the band’s tradition, the guitars are bright and jangly — a treble-forward Telecaster-style clean-to-light-crunch into a Fender-style amp, with a driving, chiming rhythm and a catchy lead. Low-medium gain, treble up, a little reverb.",
+      "guitar": "",
+      "pickups": "bridge (Telecaster, bright & chiming)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge (Telecaster, bright & chiming)",
+    "confidence": 0.65,
+    "sources": [
+      {
+        "url": "https://www.guitaretoday.com/le-son-mythique-dindochine-1982-le-materiel-exact-de-dominique-nicolas-pour-jouer-laventurier/",
+        "title": "Le son d’Indochine (gear) — Guitaretoday"
+      },
+      {
+        "url": "https://fr.wikipedia.org/wiki/Dominique_Nicolas",
+        "title": "Dominique Nicolas — Wikipédia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/jai-demande-a-la-lune--indochine--riff--distorted--guitar/"
+  },
+  {
+    "song": "Senden Daha Guzel",
+    "artist": "Duman",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright alt-rock amp, medium crunch (grunge-influenced; exact rig not documented)",
+      "notes": "A classic Duman alternative-rock song (Kaan Tangoze). Duman are Turkey grunge/alt-rock cornerstone. Song-specific gear is not documented, so these are an educated estimate: a warm, medium-gain alternative-rock crunch with a melodic, soaring lead — treble up, a little reverb. Grunge-influenced dynamics (softer verses, bigger chorus).",
+      "guitar": "",
+      "pickups": "bridge/neck (warm, dynamic)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge/neck (warm, dynamic)",
+    "confidence": 0.58,
+    "sources": [
+      {
+        "url": "https://www.songsterr.com/a/wsa/duman-senden-daha-guzel-tab-s60071",
+        "title": "Senden Daha Guzel Tab — Songsterr"
+      },
+      {
+        "url": "https://akorlar.com/duman-senden-daha-guzel",
+        "title": "Senden Daha Guzel Akor — Akorlar"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/senden-daha-guzel--duman--riff--distorted--guitar/"
+  },
+  {
+    "song": "Cambaz",
+    "artist": "Mor ve Otesi",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright, driving alt-rock amp, medium crunch (exact rig not documented)",
+      "notes": "A signature Mor ve Otesi alternative-rock song (lead guitar Kerem Ozyegen, vocals/rhythm Harun Tekin). Song-specific gear is not documented, so these are an educated estimate: a bright, driving alternative-rock crunch, medium gain, treble up, with a tight riff and melodic lead.",
+      "guitar": "",
+      "pickups": "bridge (bright, driving)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (bright, driving)",
+    "confidence": 0.58,
+    "sources": [
+      {
+        "url": "https://akorlar.com/mor-ve-otesi-cambaz",
+        "title": "Cambaz Akor — Akorlar"
+      },
+      {
+        "url": "https://www.gitaregitim.net/cambaz-nota-tab/",
+        "title": "Cambaz Nota/Tab — Gitaregitim"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/cambaz--mor-ve-otesi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Gimme Tha Power",
+    "artist": "Molotov",
+    "genre": "metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall JCM800 (Tito used it until 2003) — heavy rap-metal crunch, with a Gibson Les Paul",
+      "notes": "Tito Fuentes plays a Gibson Les Paul (a ’59 R9) into a Marshall JCM800 (his amp until 2003, so the sound of this 1997 track), with a ZVEX Fuzz Factory, a Way Huge Green Rhino and a Dunlop Cry Baby wah on the board. Gimme Tha Power is a heavy, driving Latin rap-metal crunch — mid-forward, medium-high gain, aggressive.",
+      "guitar": "",
+      "pickups": "bridge (Les Paul humbucker)"
+    },
+    "effects": [
+      "distortion",
+      "fuzz",
+      "wah"
+    ],
+    "pickup": "bridge (Les Paul humbucker)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/tito-fuentes",
+        "title": "Tito Fuentes (Molotov) Gear — Equipboard"
+      },
+      {
+        "url": "https://www.songsterr.com/a/wsa/molotov-gimme-tha-power-tab-s12204",
+        "title": "Gimme Tha Power Tab — Songsterr"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/gimme-tha-power--molotov--riff--distorted--guitar/"
+  },
+  {
+    "song": "Matador",
+    "artist": "Los Fabulosos Cadillacs",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright amp, medium crunch — Fender Strat / G&L ASAT, with delay",
+      "notes": "The iconic Fabulosos Cadillacs ska-rock/rock-en-español anthem. The guitars are a Fender Stratocaster or a G&L ASAT — sharp yet warm — with a delay (Sonomatic-style) for depth. Bright, driving, upstroke-heavy ska-rock energy under the horns, medium gain, treble up.",
+      "guitar": "",
+      "pickups": "bridge/middle (Strat/ASAT, bright)"
+    },
+    "effects": [
+      "distortion",
+      "delay"
+    ],
+    "pickup": "bridge/middle (Strat/ASAT, bright)",
+    "confidence": 0.65,
+    "sources": [
+      {
+        "url": "https://equipboard.com/band/los-fabulosos-cadillacs",
+        "title": "Los Fabulosos Cadillacs Gear — Equipboard"
+      },
+      {
+        "url": "https://www.songsterr.com/a/wsa/los-fabulosos-cadillacs-matador-tab-s72918",
+        "title": "Matador Tab — Songsterr"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/matador--los-fabulosos-cadillacs--riff--distorted--guitar/"
+  },
+  {
+    "song": "Peace of Mind",
+    "artist": "Boston",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall (into the power amp, preamp bypassed) — Tom Scholz’s layered \"Boston\" wall",
+      "notes": "Tom Scholz’s signature layered Boston tone. A modified Gibson Les Paul (high-output pickups) into his prototype Rockman-era chain — compressor, distortion, a fixed filter EQ, MXR 6-band EQ, Echoplex EP-3, and a Power Soak into the power-amp input of a Marshall (bypassing the preamp). The signature midrange \"honk\" is a fixed filter + a heavy EQ boost around 1.6 kHz, NOT a wah. Multiple identical tracks are layered for the huge, singing sustain.",
+      "guitar": "",
+      "pickups": "bridge (high-output Les Paul)"
+    },
+    "effects": [
+      "distortion",
+      "compression",
+      "delay"
+    ],
+    "pickup": "bridge (high-output Les Paul)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/amp-settings-peace-of-mind-boston/",
+        "title": "Peace of Mind Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://www.premierguitar.com/artists/guitarists/bostons-tom-scholz",
+        "title": "Tom Scholz: The Return of Rockman — Premier Guitar"
+      },
+      {
+        "url": "https://musicstrive.com/boston-guitar-tone/",
+        "title": "Tom Scholz / Boston Guitar Tone — MusicStrive"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/peace-of-mind--boston--riff--distorted--guitar/"
+  },
+  {
+    "song": "Feel Like Makin Love",
+    "artist": "Bad Company",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5.5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Ampeg V-4 / Vox AC30 — warm clean verse into a big crunchy chorus",
+      "notes": "Mick Ralphs built this on the dynamic swing from a warm clean verse to a big power-chord chorus. A Gibson Les Paul (bridge pickup) into an Ampeg V-4 (also a Vox AC30). The verse cleans are doubled tightly (two positions, one slightly out of tune to widen the track); the chorus opens up into a thick, punchy crunch.",
+      "guitar": "",
+      "pickups": "bridge (Les Paul, warm)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (Les Paul, warm)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.mylespaul.com/threads/mick-ralphs-bad-company-tone.4912/",
+        "title": "Mick Ralphs / Bad Company Tone — My Les Paul Forum"
+      },
+      {
+        "url": "https://www.woodytone.com/2012/02/02/mick-ralphs-hoople-and-bad-co-gear/",
+        "title": "Mick Ralphs Gear — WoodyTone"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/feel-like-makin-love--bad-company--riff--distorted--guitar/"
+  },
+  {
+    "song": "You Really Got Me",
+    "artist": "The Kinks",
+    "genre": "rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 4.5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1
+    },
+    "original_gear": {
+      "amp": "Elpico AC55 with a SLASHED speaker cone (proto-fuzz), slaved into a Vox AC30",
+      "notes": "The birth of rock distortion. Dave Davies took a razor blade to the speaker cone of his little Elpico AC55 amp — cutting slits from center to edge — to get that raw, buzzy, torn-cone fuzz. He close-miked it and slaved it into a Vox AC30, playing a Harmony Meteor. To recreate it: a raw, gated fuzz (a Fuzz Face / torn-speaker-style fuzz) is the key — buzzy and aggressive, not smooth.",
+      "guitar": "",
+      "pickups": "bridge (raw, buzzy)"
+    },
+    "effects": [
+      "fuzz",
+      "distortion"
+    ],
+    "pickup": "bridge (raw, buzzy)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://guitar.com/news/music-news/the-kinks-dave-davies-slashed-amp/",
+        "title": "Dave Davies’ Slashed Amp Tone — Guitar.com"
+      },
+      {
+        "url": "https://www.musicradar.com/artists/dave-davies-slashes-guitar-speaker-to-demonstrate-how-he-got-you-really-got-me-guitar-tone-proto-fuzz-distorted-sound",
+        "title": "Dave Davies Slashes a Speaker — MusicRadar"
+      },
+      {
+        "url": "https://equipboard.com/pros/dave-davies",
+        "title": "Dave Davies Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/you-really-got-me--the-kinks--riff--distorted--guitar/"
+  },
+  {
+    "song": "Mary Janes Last Dance",
+    "artist": "Tom Petty",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender Vibrolux Reverb, set for edge-of-breakup — Gibson Les Paul, no pedals",
+      "notes": "Mike Campbell played the main riff on a Gibson Les Paul Standard into a Fender Vibrolux Reverb set for edge-of-breakup — no pedals. The tone is a warm, jangly-to-crunchy heartland-rock sound: a humbucker into a Fender clean that just breaks up when you dig in. Treble up, medium-low gain, a little reverb.",
+      "guitar": "",
+      "pickups": "bridge (Les Paul, warm)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge (Les Paul, warm)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/amp-settings-mary-janes-last-dance-tom-petty/",
+        "title": "Mary Jane’s Last Dance Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://line6.com/customtone/tone/219742/",
+        "title": "Mary Jane’s Last Dance Tone — Line 6 CustomTone"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/mary-janes-last-dance--tom-petty--riff--distorted--guitar/"
+  },
+  {
+    "song": "Gurenge",
+    "artist": "LiSA",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Bright, driving high-gain (anime J-rock) — exact rig not documented",
+      "notes": "The Demon Slayer opening — one of the most-viewed anime songs ever. Song-specific guitar gear is not documented, so these are an educated anime-J-rock estimate: a bright, driving, energetic crunch with a tight riff and a soaring, melodic lead. Medium-high gain, treble up, mids present.",
+      "guitar": "",
+      "pickups": "bridge (bright, driving)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (bright, driving)",
+    "confidence": 0.6,
+    "sources": [
+      {
+        "url": "https://www.songsterr.com/a/wsa/lisa-gurenge-demon-slayer-op-tab-s486959",
+        "title": "Gurenge Tab — Songsterr"
+      },
+      {
+        "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/demon-slayer-gurenge-chords-2703885",
+        "title": "Gurenge Chords — Ultimate Guitar"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/gurenge--lisa--riff--distorted--guitar/"
+  },
+  {
+    "song": "Feed the Fire",
+    "artist": "coldrain",
+    "genre": "metal",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Orange Rockerverb 100 — ESP Viper baritone with EMG pickups, tight metalcore",
+      "notes": "Y.K.C of coldrain plays ESP Viper baritone guitars (also his ESP \"Meteorite\" signature) with EMG pickups into an Orange Rockerverb 100, with an MXR Stereo Chorus for the clean/lead textures. coldrain’s sound is aggressive yet melodic metalcore — tight, low, punchy chugs under soaring choruses. Keep the low end tight, mids present, hard-gated.",
+      "guitar": "",
+      "pickups": "bridge (EMG active, baritone/low)"
+    },
+    "effects": [
+      "distortion",
+      "noise gate",
+      "chorus"
+    ],
+    "pickup": "bridge (EMG active, baritone/low)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/y-k-c",
+        "title": "Y.K.C (coldrain) Gear — Equipboard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coldrain",
+        "title": "Coldrain — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/feed-the-fire--coldrain--riff--distorted--guitar/"
+  },
+  {
+    "song": "Time of Our Life",
+    "artist": "DAY6",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright pop-rock (Line 6 Helix) — twin guitars: Fender Strat + Gibson Les Paul",
+      "notes": "DAY6 are a real guitar band (not idol-pop). On Time of Our Life, Jae plays a Fender Custom Shop Stratocaster (bright, articulate) and Sungjin a Gibson Les Paul Standard (warm, powerful), running a Line 6 Helix. The result is a bright, uplifting twin-guitar pop-rock crunch — Strat jangle over Les Paul warmth, medium gain, treble up.",
+      "guitar": "",
+      "pickups": "bridge (Strat bright + Les Paul warm)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge (Strat bright + Les Paul warm)",
+    "confidence": 0.68,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/jae-park",
+        "title": "Jae Park (DAY6) Gear — Equipboard"
+      },
+      {
+        "url": "https://equipboard.com/pros/park-sung-jin",
+        "title": "Park Sung Jin (DAY6) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/time-of-our-life--day6--riff--distorted--guitar/"
+  },
+  {
+    "song": "Rooftop",
+    "artist": "N.Flying",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright, crisp amp, medium crunch — Fender Telecaster Deluxe / PRS",
+      "notes": "N.Flying are a Korean rock band who fuse rock instrumentation with modern K-pop/rap elements. Cha Hun plays a Fender Telecaster Deluxe (crisp, articulate) and a PRS Modern Eagle V (rich, deep). On Rooftop the tone is a bright, crisp, driving K-rock crunch — clean-leaning verses into a fuller, chiming chorus. Treble up, medium gain.",
+      "guitar": "",
+      "pickups": "bridge (Tele Deluxe, crisp)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge (Tele Deluxe, crisp)",
+    "confidence": 0.63,
+    "sources": [
+      {
+        "url": "https://equipboard.com/band/n-flying",
+        "title": "N.Flying Gear & Sound — Equipboard"
+      },
+      {
+        "url": "https://www.scmp.com/magazines/style/news-trends/article/3078574/forget-k-pop-its-time-k-rock-meet-nflying-korean-rap",
+        "title": "N.Flying / Rooftop — SCMP"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/rooftop--n-flying--riff--distorted--guitar/"
+  },
+  {
+    "song": "You Were Beautiful",
+    "artist": "DAY6",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright pop-rock (Line 6 Helix) — Fender Strat + Gibson Les Paul twin guitars",
+      "notes": "DAY6’s signature emotional rock ballad. The band’s usual twin-guitar setup — Jae’s Fender Custom Shop Strat (bright, chiming) and Sungjin’s Gibson Les Paul (warm) into a Line 6 Helix. The tone builds from clean, chiming arpeggios in the verse to a fuller, soaring crunch in the chorus. Medium gain, treble up, generous reverb.",
+      "guitar": "",
+      "pickups": "neck/bridge (Strat chime + LP warmth)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "neck/bridge (Strat chime + LP warmth)",
+    "confidence": 0.66,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/jae-park",
+        "title": "Jae Park (DAY6) Gear — Equipboard"
+      },
+      {
+        "url": "https://equipboard.com/band/day6",
+        "title": "DAY6 Gear & Sound — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/you-were-beautiful--day6--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sorry",
+    "artist": "The Rose",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright, emotive rock amp, medium crunch (exact rig not documented)",
+      "notes": "The Rose are a South Korean rock band (Woosung on vocals/electric guitar). Song-specific gear for Sorry is not documented, so these are an educated emotive-rock estimate: a bright, warm clean-to-medium crunch that builds dynamically, with a melodic, soaring lead. Treble up, low-medium gain, generous reverb.",
+      "guitar": "",
+      "pickups": "bridge/neck (bright, emotive)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge/neck (bright, emotive)",
+    "confidence": 0.58,
+    "sources": [
+      {
+        "url": "https://tabs.ultimate-guitar.com/tab/the-rose/sorry-chords-2114741",
+        "title": "Sorry Chords — Ultimate Guitar"
+      },
+      {
+        "url": "https://www.ultimate-guitar.com/artist/the_rose_103887",
+        "title": "The Rose Tabs — Ultimate Guitar"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/sorry--the-rose--riff--distorted--guitar/"
+  },
+  {
+    "song": "Congratulations",
+    "artist": "DAY6",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bright pop-rock (Line 6 Helix) — Fender Strat + Gibson Les Paul twin guitars",
+      "notes": "DAY6’s debut single — an upbeat, driving pop-rock banger. The band’s twin-guitar setup: Jae’s Fender Custom Shop Strat (bright, jangly) and Sungjin’s Gibson Les Paul (warm, powerful) into a Line 6 Helix. Bright, energetic medium crunch, treble up, driving power-pop feel.",
+      "guitar": "",
+      "pickups": "bridge (Strat bright + LP warm)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (Strat bright + LP warm)",
+    "confidence": 0.66,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/jae-park",
+        "title": "Jae Park (DAY6) Gear — Equipboard"
+      },
+      {
+        "url": "https://equipboard.com/band/day6",
+        "title": "DAY6 Gear & Sound — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/congratulations--day6--riff--distorted--guitar/"
+  },
+  {
+    "song": "Hot Potato",
+    "artist": "N.Flying",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Bright, crisp amp, medium crunch — Fender Telecaster Deluxe / PRS",
+      "notes": "A high-energy N.Flying track fusing rock with rap/hybrid elements. Cha Hun plays a Fender Telecaster Deluxe (crisp, articulate) and a PRS Modern Eagle V (rich). The tone is a bright, punchy, driving K-rock crunch — tight rhythm and a chiming, energetic feel. Treble up, medium gain.",
+      "guitar": "",
+      "pickups": "bridge (Tele Deluxe, crisp)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (Tele Deluxe, crisp)",
+    "confidence": 0.62,
+    "sources": [
+      {
+        "url": "https://equipboard.com/band/n-flying",
+        "title": "N.Flying Gear & Sound — Equipboard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/N.Flying",
+        "title": "N.Flying — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/hot-potato--n-flying--riff--distorted--guitar/"
+  },
+  {
+    "song": "Gruppa Krovi",
+    "artist": "Kino",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright, jangly amp, light crunch — heavy CHORUS + delay (80s Soviet post-punk)",
+      "notes": "The legendary 1988 Kino anthem — the peak of Soviet post-punk. Yuri Kasparian’s lead guitar is bright, jangly and drenched in 80s CHORUS and delay, over Viktor Tsoi’s driving rhythm (Fender Stratocaster, Washburn). The tone is a clean-to-light-crunch with a wide, shimmering chorus and a characteristic melodic, minor-key sense — \"walls of guitars\" but bright and cold.",
+      "guitar": "",
+      "pickups": "neck/bridge (bright, jangly)"
+    },
+    "effects": [
+      "chorus",
+      "delay",
+      "distortion"
+    ],
+    "pickup": "neck/bridge (bright, jangly)",
+    "confidence": 0.63,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gruppa_krovi",
+        "title": "Gruppa krovi — Wikipedia"
+      },
+      {
+        "url": "https://equipboard.com/pros/viktor-tsoy",
+        "title": "Viktor Tsoi (Kino) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/gruppa-krovi--kino--riff--distorted--guitar/"
+  },
+  {
+    "song": "Ulitsa Roz",
+    "artist": "Aria",
+    "genre": "metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall-style crunch (classic heavy metal) — with an MXR Phase 9",
+      "notes": "Aria are the \"Russian Iron Maiden\" — the first Soviet metal band to break mainstream. Vladimir Holstinin plays Strats, Jacksons, Deans and Hamers into a classic Marshall-style high-gain, using an MXR Phase 9 for warm, swooshing, analogue phaser textures. Ulitsa Roz is classic 80s heavy metal — mid-forward, driving, with twin-guitar harmonies and melodic leads.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, mid-forward)"
+    },
+    "effects": [
+      "distortion",
+      "phaser"
+    ],
+    "pickup": "bridge (humbucker, mid-forward)",
+    "confidence": 0.65,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Holstinin",
+        "title": "Vladimir Holstinin (Aria) Gear — Wikipedia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aria_(band)",
+        "title": "Aria (band) — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/ulitsa-roz--aria--riff--distorted--guitar/"
+  },
+  {
+    "song": "Zvezda po imeni Solntse",
+    "artist": "Kino",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright, jangly amp, light-medium crunch — chorus + delay (late-80s Kino)",
+      "notes": "The title track of Kino’s final album — Yuri Kasparian famously tracked it on a black Alvarez guitar. The tone is the classic late-80s Kino sound: a bright, jangly clean-to-light-crunch drenched in chorus and delay, with a driving, minor-key rhythm and a cold, melodic lead. A little more crunch than earlier Kino.",
+      "guitar": "",
+      "pickups": "neck/bridge (bright, jangly)"
+    },
+    "effects": [
+      "chorus",
+      "delay",
+      "distortion"
+    ],
+    "pickup": "neck/bridge (bright, jangly)",
+    "confidence": 0.63,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gruppa_krovi",
+        "title": "Kino sound & gear — Wikipedia"
+      },
+      {
+        "url": "https://equipboard.com/pros/viktor-tsoy",
+        "title": "Viktor Tsoi (Kino) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/zvezda-po-imeni-solntse--kino--riff--distorted--guitar/"
+  },
+  {
+    "song": "Krylya",
+    "artist": "Nautilus Pompilius",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Bright, atmospheric amp, medium crunch (exact rig not documented)",
+      "notes": "A hugely popular Nautilus Pompilius song — atmospheric Russian art-rock led by Vyacheslav Butusov. Song-specific gear is not documented; these are an educated estimate for the style: a bright, atmospheric clean-to-medium crunch with generous reverb and a melancholic, melodic lead. Treble up, low-medium gain.",
+      "guitar": "",
+      "pickups": "neck/bridge (bright, atmospheric)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "neck/bridge (bright, atmospheric)",
+    "confidence": 0.58,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nautilus_Pompilius_(band)",
+        "title": "Nautilus Pompilius — Wikipedia"
+      },
+      {
+        "url": "https://www.last.fm/music/Nautilus+Pompilius",
+        "title": "Nautilus Pompilius — Last.fm"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/krylya--nautilus-pompilius--riff--distorted--guitar/"
+  },
+  {
+    "song": "Igra s ognyom",
+    "artist": "Aria",
+    "genre": "metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall-style crunch (classic heavy metal) — Vladimir Holstinin",
+      "notes": "Classic Aria heavy metal (\"the Russian Iron Maiden\"). Vladimir Holstinin plays Strats/Jacksons/Deans into a Marshall-style high-gain, with an MXR Phase 9 for warmth. Igra s ognyom is driving, mid-forward 80s metal with galloping riffs and twin-guitar harmonized leads.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, mid-forward)"
+    },
+    "effects": [
+      "distortion",
+      "phaser"
+    ],
+    "pickup": "bridge (humbucker, mid-forward)",
+    "confidence": 0.63,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Holstinin",
+        "title": "Vladimir Holstinin (Aria) Gear — Wikipedia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aria_(band)",
+        "title": "Aria (band) — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/igra-s-ognyom--aria--riff--distorted--guitar/"
+  },
+  {
+    "song": "Chto Takoe Osen",
+    "artist": "DDT",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright, warm amp, light-medium crunch (exact rig not documented)",
+      "notes": "One of the most beloved Russian rock songs (DDT, led by Yuri Shevchuk). Song-specific gear is not documented; these are an educated Russian-rock estimate: a warm, bright clean-to-light-crunch that builds from a gentle verse into a fuller, anthemic chorus, with a melodic lead. Treble up, low-medium gain, a little reverb.",
+      "guitar": "",
+      "pickups": "neck/bridge (warm, dynamic)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "neck/bridge (warm, dynamic)",
+    "confidence": 0.55,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/DDT_(band)",
+        "title": "DDT (band) — Wikipedia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yuri_Shevchuk",
+        "title": "Yuri Shevchuk (DDT) — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/chto-takoe-osen--ddt--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sugar Song and Bitter Step",
+    "artist": "UNISON SQUARE GARDEN",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Bogner Shiva (distortion) / Ampeg V4 (cleans) — Strat-type with DiMarzio",
+      "notes": "The Blood Blockade Battlefront ending theme — a technical J-rock favourite. Kosuke Saito plays a Strat-type guitar (ATELIER Z with DiMarzio DP408, and a Fender Custom Shop \"Lady Killer\" Strat) into a Bogner Shiva for distortion and an Ampeg V4 for cleans. The tone is bright, articulate and technical — clean-to-medium-crunch with fast, precise riffing and snappy dynamics.",
+      "guitar": "",
+      "pickups": "bridge (Strat-type, bright & articulate)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (Strat-type, bright & articulate)",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://kizai-zukan.com/saitoukousuke-usg/",
+        "title": "Kosuke Saito (USG) Gear — Kizai Zukan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Unison_Square_Garden",
+        "title": "Unison Square Garden — Wikipedia"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/sugar-song-and-bitter-step--unison-square-garden--riff--distorted--guitar/"
+  },
+  {
+    "song": "Fukagyaku Replace",
+    "artist": "MY FIRST STORY",
+    "genre": "metal",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Tight high-gain (J-rock/post-hardcore) — exact rig not documented",
+      "notes": "A Mobile Suit Gundam opening — MY FIRST STORY blend alternative rock, emo and post-hardcore. Song-specific gear is not documented, so these are an educated J-rock/post-hardcore estimate: a tight, aggressive high-gain crunch (Strat-style or humbucker) that drops to clean, melodic passages, with overdrive/chorus/delay. Mids present, treble up, hard-gated chugs.",
+      "guitar": "",
+      "pickups": "bridge (tight, aggressive)"
+    },
+    "effects": [
+      "distortion",
+      "chorus",
+      "delay"
+    ],
+    "pickup": "bridge (tight, aggressive)",
+    "confidence": 0.62,
+    "sources": [
+      {
+        "url": "https://equipboard.com/band/my-first-story",
+        "title": "MY FIRST STORY Gear — Equipboard"
+      },
+      {
+        "url": "https://musicstrive.com/j-rock-guitar-tone/",
+        "title": "How to Get a J-Rock Guitar Tone — MusicStrive"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/fukagyaku-replace--my-first-story--riff--distorted--guitar/"
+  },
+  {
+    "song": "Cirice",
+    "artist": "Ghost",
+    "genre": "metal",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 4,
+      "mid": 6.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Marshall + Orange (tube-amp driven) — Gibson RD Artist humbuckers",
+      "notes": "Ghost’s Grammy-winning anthem. The Nameless Ghoul favours a Gibson RD Artist (powerful humbuckers) into a blend of Marshall and Orange tube amps (Axe-FX live). The key is MID-FORWARD tube drive — bass pulled back (~4) so the mids and articulation shine. A dark, heavy-yet-melodic hard rock/metal crunch, medium-high gain.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, mid-forward)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (humbucker, mid-forward)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://musicstrive.com/ghost-guitar-tone/",
+        "title": "Ghost Amp Settings & Gear — MusicStrive"
+      },
+      {
+        "url": "https://equipboard.com/pros/nameless_ghoul",
+        "title": "Nameless Ghoul (Ghost) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/cirice--ghost--riff--distorted--guitar/"
+  },
+  {
+    "song": "Mary on a Cross",
+    "artist": "Ghost",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4.5,
+      "bass": 4.5,
+      "mid": 6.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall/Orange, warm medium crunch — Eb STANDARD tuning",
+      "notes": "Ghost’s TikTok-viral, 70s-rock-flavoured hit. It’s in Eb STANDARD tuning (Eb Ab Db Gb Bb Eb — down a half step). The tone is warmer and jangly-er than their heavier songs — a mid-forward, medium-crunch classic-rock sound (Marshall/Orange), bass pulled back, mids up, with a catchy, melodic lead. Think 70s Blue Öyster Cult / soft-rock warmth.",
+      "guitar": "",
+      "pickups": "bridge/neck (warm, jangly)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge/neck (warm, jangly)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://guitarlessons365.com/mary-on-a-cross-guitar-lesson-ghost/",
+        "title": "Mary on a Cross Guitar Lesson — Guitar Lessons 365"
+      },
+      {
+        "url": "https://musicstrive.com/ghost-guitar-tone/",
+        "title": "Ghost Amp Settings & Gear — MusicStrive"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/mary-on-a-cross--ghost--riff--distorted--guitar/"
+  },
+  {
+    "song": "Circle With Me",
+    "artist": "Spiritbox",
+    "genre": "metal",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Neural DSP Quad Cortex / Fractal Axe-FX III (Omega Granophyre capture) — 7-string",
+      "notes": "Modern djent/metalcore at its tightest. Mike Stringer plays a Kiesel Aries or Aristides multi-scale 7-string with Fishman Fluence Modern pickups into a Neural DSP Quad Cortex (a capture of a Peavey/Omega Granophyre) and a Fractal Axe-FX III. The tone is a tight, percussive high-gain — controlled low end, mids present, hard-gated for the machine-precise chugs, with clarity for the fluid leads.",
+      "guitar": "",
+      "pickups": "bridge (Fishman Fluence Modern, 7-string)"
+    },
+    "effects": [
+      "distortion",
+      "noise gate"
+    ],
+    "pickup": "bridge (Fishman Fluence Modern, 7-string)",
+    "confidence": 0.78,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/circle-with-me-amp-settings/",
+        "title": "Circle With Me Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://equipboard.com/pros/mike-stringer",
+        "title": "Mike Stringer (Spiritbox) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/circle-with-me--spiritbox--riff--distorted--guitar/"
+  },
+  {
+    "song": "Throne",
+    "artist": "Bring Me The Horizon",
+    "genre": "metal",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Two modded Marshall JCM800s into 1960A 4x12s — low-tuned Les Paul (C / Bb)",
+      "notes": "Lee Malia plays a Gibson/Epiphone Les Paul strung heavy (.080 on the bottom) and tuned down to C or Bb, into two modded Marshall JCM800s (Winged C 6550C / EHX Gold Pin tubes) driving Marshall 1960A cabs. The Throne tone is a big, loud, low-tuned Marshall metalcore/electronicore crunch — thick, driving, mid-present, sitting under the electronics.",
+      "guitar": "",
+      "pickups": "bridge (Les Paul humbucker, low-tuned)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (Les Paul humbucker, low-tuned)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/lee-malia",
+        "title": "Lee Malia (BMTH) Gear — Equipboard"
+      },
+      {
+        "url": "https://www.premierguitar.com/gear/rig-rundown-bring-me-the-horizons-lee-malia",
+        "title": "Rig Rundown: Lee Malia — Premier Guitar"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/throne--bring-me-the-horizon--riff--distorted--guitar/"
+  },
+  {
+    "song": "Popular Monster",
+    "artist": "Falling in Reverse",
+    "genre": "metal",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7.5,
+      "bass": 5.5,
+      "mid": 5.5,
+      "treble": 6,
+      "presence": 5.5,
+      "reverb": 1
+    },
+    "original_gear": {
+      "amp": "EVH 5150 III / Mesa Dual Rectifier — PRS Custom 24, tight downtuned",
+      "notes": "A massive Falling in Reverse anthem blending metalcore, nu-metal and electronics. The band’s guitars run crisp, tight high-gain from an EVH 5150 III or a Mesa/Boogie Dual Rectifier with a PRS Custom 24. The tone is tight and modern — downtuned, hard-gated chugs with clarity, sitting alongside heavy electronics and vocals. Mids moderate, tight low end.",
+      "guitar": "",
+      "pickups": "bridge (PRS/active, downtuned)"
+    },
+    "effects": [
+      "distortion",
+      "noise gate"
+    ],
+    "pickup": "bridge (PRS/active, downtuned)",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "url": "https://equipboard.com/band/falling-in-reverse",
+        "title": "Falling In Reverse Gear — Equipboard"
+      },
+      {
+        "url": "https://www.guitarchalk.com/zombified-amp-settings/",
+        "title": "Falling in Reverse tone (Zombified) — Guitar Chalk"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/popular-monster--falling-in-reverse--riff--distorted--guitar/"
+  },
+  {
+    "song": "Watch the World Burn",
+    "artist": "Falling in Reverse",
+    "genre": "metal",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7.5,
+      "bass": 5.5,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5.5,
+      "reverb": 1
+    },
+    "original_gear": {
+      "amp": "Mesa Dual Rectifier / Helix (Treadplate) — DROP G# (very low)",
+      "notes": "One of Falling in Reverse’s biggest recent songs — and it’s TUNED VERY LOW (Drop G#). The guitars are tight, heavy and modern, built around Mesa Dual Rectifier / Helix \"Treadplate\" tones. The extreme low tuning means the low end must be TIGHT (bass controlled, hard gate) so the crushing chugs stay defined, not flubby. Mids present, treble up for clarity.",
+      "guitar": "",
+      "pickups": "bridge (active/high-output, very low)"
+    },
+    "effects": [
+      "distortion",
+      "noise gate"
+    ],
+    "pickup": "bridge (active/high-output, very low)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.nailthemix.com/unlock-falling-in-reverses-guitar-tones-mix-strategy",
+        "title": "Falling in Reverse Guitar Tones (Watch the World Burn) — Nail The Mix"
+      },
+      {
+        "url": "https://www.songsterr.com/a/wsa/falling-in-reverse-watch-the-world-burn-tab-s534532",
+        "title": "Watch the World Burn Tab — Songsterr"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/watch-the-world-burn--falling-in-reverse--riff--distorted--guitar/"
+  },
+  {
+    "song": "Take Me to Church",
+    "artist": "Hozier",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6.5,
+      "treble": 5.5,
+      "presence": 5,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Hand-wired Vox AC15 — Eastwood Airline (neck humbucker), ProCo Rat + Memory Man + Holy Grail reverb",
+      "notes": "Hozier’s breakout anthem. The original was an Eastwood Airline guitar (neck humbucker) into a hand-wired Vox AC15, pushed with an Electro-Harmonix Memory Man (gain up) and a ProCo Rat for the driven sections, plus Holy Grail / Ekdahl Moisturizer spring reverb. The tone is thick, warm, dark and soulful — mid-heavy, humbucker neck, dynamic from a hushed clean verse into a driven, reverby chorus.",
+      "guitar": "",
+      "pickups": "neck (humbucker, warm & dark)"
+    },
+    "effects": [
+      "distortion",
+      "reverb",
+      "delay"
+    ],
+    "pickup": "neck (humbucker, warm & dark)",
+    "confidence": 0.76,
+    "sources": [
+      {
+        "url": "https://www.premierguitar.com/gear/rig-rundown-hozier",
+        "title": "Rig Rundown: Hozier — Premier Guitar"
+      },
+      {
+        "url": "https://www.guitarchalk.com/amp-settings-take-me-to-church-hozier/",
+        "title": "Take Me to Church Amp Settings — Guitar Chalk"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/take-me-to-church--hozier--riff--distorted--guitar/"
+  },
+  {
+    "song": "Too Sweet",
+    "artist": "Hozier",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 7,
+      "treble": 5,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender 65 Deluxe Reverb — semi-hollow / humbucker, clean with subtle breakup",
+      "notes": "Hozier’s 2024 chart-topping, bluesy groove. Use a semi-hollow or hollowbody with humbuckers into a Fender 65 Deluxe Reverb — clean but rich, with subtle touch-sensitive breakup. The EQ is MID-HEAVY (bass ~5, mid ~7, treble ~5) for that warm, soulful character. A light overdrive for breakup, spring/plate reverb, and a subtle slapback/analog delay for depth.",
+      "guitar": "",
+      "pickups": "neck/bridge (humbucker, warm)"
+    },
+    "effects": [
+      "reverb",
+      "delay",
+      "overdrive"
+    ],
+    "pickup": "neck/bridge (humbucker, warm)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/too-sweet-amp-settings/",
+        "title": "Too Sweet Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://equipboard.com/pros/hozier",
+        "title": "Hozier Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/too-sweet--hozier--riff--clean--guitar/"
+  },
+  {
+    "song": "Blackout",
+    "artist": "Turnstile",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6.5,
+      "treble": 6,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Orange Rockerverb / Mesa Dual Rectifier + 5150 blend — Gibson Les Paul, two Fulltone OCDs",
+      "notes": "Turnstile’s breakout — hardcore punk with a huge, groovy guitar front and centre. Pat McCrory plays a Gibson Les Paul Classic; the album blends a Mesa Dual Rectifier and a 5150, and live he runs an Orange Rockerverb MKIII. Two Fulltone OCDs (one for rhythm distortion, one to push leads) and an MXR Carbon Copy delay. The tone is thick, mid-forward and groovy — driving hardcore crunch that’s melodic and huge, not scooped.",
+      "guitar": "",
+      "pickups": "bridge (Les Paul humbucker)"
+    },
+    "effects": [
+      "distortion",
+      "delay"
+    ],
+    "pickup": "bridge (Les Paul humbucker)",
+    "confidence": 0.76,
+    "sources": [
+      {
+        "url": "https://www.guitarworld.com/features/turnstile-glow-on",
+        "title": "Turnstile’s Brady Ebert & Pat McCrory — Guitar World"
+      },
+      {
+        "url": "https://equipboard.com/pros/pat-mccrory",
+        "title": "Pat McCrory (Turnstile) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/blackout--turnstile--riff--distorted--guitar/"
+  },
+  {
+    "song": "Chaise Longue",
+    "artist": "Wet Leg",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 4.5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Vox AC10 / Supro — Danelectro / Jazzmaster, EHX Soul Food + Keeley Loomer fuzz",
+      "notes": "The viral Wet Leg debut — dry, scratchy, deadpan post-punk/indie. Hester Chambers played a Danelectro U2 into an EHX Soul Food overdrive and a Keeley Loomer (fuzz + reverb); the main lead is fuzz from the Loomer with the Soul Food for the scratchy line. Rhian Teasdale used a Surf Green Jazzmaster into a Supro. Bright, dry and minimal — treble up, low-medium gain, with a fuzzy, scratchy lead.",
+      "guitar": "",
+      "pickups": "bridge (bright, dry & scratchy)"
+    },
+    "effects": [
+      "fuzz",
+      "overdrive",
+      "reverb"
+    ],
+    "pickup": "bridge (bright, dry & scratchy)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.guitarworld.com/features/wet-leg-chaise-longue",
+        "title": "Wet Leg on Chaise Longue — Guitar World"
+      },
+      {
+        "url": "https://equipboard.com/pros/hester-chambers",
+        "title": "Hester Chambers (Wet Leg) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/chaise-longue--wet-leg--riff--distorted--guitar/"
+  },
+  {
+    "song": "Starburster",
+    "artist": "Fontaines D.C.",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender 68 Custom Twin Reverb (bright switch ON) — Mustang (Hot Rails) / Jazzmaster",
+      "notes": "The 2024 Fontaines D.C. anthem (from Romance). Carlos O’Connell’s core tone is a Fender 68 Custom Twin Reverb, always on with the BRIGHT switch engaged for piercing highs, with a Deluxe Reverb kicked in for the louder parts. Guitars: a 64 Fender Mustang (with a Seymour Duncan Hot Rails added) and a Jazzmaster. Klon-style drive (Ceriatone Centura), Strymon Volante and Eventide H9 for texture. The tone is bright, jangly and piercing — clean-to-light-crunch with atmospheric, arty textures.",
+      "guitar": "",
+      "pickups": "single-coil (Mustang/Jazzmaster, bright & piercing)"
+    },
+    "effects": [
+      "distortion",
+      "delay",
+      "reverb"
+    ],
+    "pickup": "single-coil (Mustang/Jazzmaster, bright & piercing)",
+    "confidence": 0.74,
+    "sources": [
+      {
+        "url": "https://www.premierguitar.com/videos/rig-rundown/fontaines-dc-2025",
+        "title": "Fontaines D.C. Rig Rundown 2025 — Premier Guitar"
+      },
+      {
+        "url": "https://www.guitarworld.com/features/fontaines-dc-carlos-oconnell-romance",
+        "title": "Carlos O’Connell on Gear & Romance — Guitar World"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/starburster--fontaines-d-c--riff--distorted--guitar/"
+  },
+  {
+    "song": "Distance",
+    "artist": "Mammoth WVH",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6.5,
+      "mid": 6,
+      "treble": 4.5,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "EVH 5150III 50W (Blue/Crunch channel) into a 4x12 — Gibson ES-335",
+      "notes": "Wolfgang Van Halen’s emotional tribute to his father. The core Mammoth tone is a Gibson ES-335 into an EVH 5150III 50W (Blue Channel = crunch/overdrive) — Wolf’s documented settings run high (gain ~8.5, bass ~7.5, mid 6, treble 4, presence 5, resonance 7), but Distance is dynamic, building from cleaner verses into a big, warm, thick chorus. Warm-yet-modern high-gain with a Fortin Zuul gate.",
+      "guitar": "",
+      "pickups": "bridge (ES-335 humbucker, warm & thick)"
+    },
+    "effects": [
+      "distortion",
+      "noise gate"
+    ],
+    "pickup": "bridge (ES-335 humbucker, warm & thick)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/mammoth-wvh-wolfgang-van-halen-amp-settings/",
+        "title": "Mammoth WVH Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://www.premierguitar.com/videos/rig-rundown/mammoth-wvh",
+        "title": "Rig Rundown: Mammoth WVH — Premier Guitar"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/distance--mammoth-wvh--riff--distorted--guitar/"
+  },
+  {
+    "song": "Nothing Matters",
+    "artist": "The Last Dinner Party",
+    "genre": "rock",
+    "era": "2020s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Bright amp, clean-to-crunch — Epiphone Sheraton / Gibson Explorer, Fulltone OCD",
+      "notes": "The Last Dinner Party’s breakout art-rock anthem, famous for Emily Roberts’ guitar solo. She plays an Epiphone Sheraton Stealth (Emily Wolfe signature, warm & resonant) and a Gibson ’80s Explorer, using a Fulltone OCD for the gritty edge. The tone is a clean-yet-powerful, bright art-rock — dynamic from clean, chiming verses into a fuller crunch, with a melodic, soaring lead.",
+      "guitar": "",
+      "pickups": "bridge/neck (warm, resonant)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge/neck (warm, resonant)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://equipboard.com/pros/emily-roberts",
+        "title": "Emily Roberts (The Last Dinner Party) Gear — Equipboard"
+      },
+      {
+        "url": "https://equipboard.com/band/the-last-dinner-party",
+        "title": "The Last Dinner Party Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/nothing-matters--the-last-dinner-party--riff--distorted--guitar/"
+  },
+  {
+    "song": "Danny Nedelko",
+    "artist": "IDLES",
+    "genre": "rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Vox AC30 / Orange / Hiwatt — loud, raw; EarthQuaker Acapulco Gold + Death By Audio",
+      "notes": "A defining IDLES post-punk anthem. Mark Bowen and Lee Kiernan run huge, loud amp setups (Vox AC30, Orange, Hiwatt, Marshall 1987x, Peavey Deuce) pushed hard, with fuzzy/noisy pedals — an EarthQuaker Acapulco Gold (a \"cranked amp in a box\"), Death By Audio noise/fuzz, and more. The tone is raw, aggressive and noisy — a loud, driving, fuzzy post-punk crunch, mids present, not polished.",
+      "guitar": "",
+      "pickups": "bridge (raw, aggressive)"
+    },
+    "effects": [
+      "distortion",
+      "fuzz"
+    ],
+    "pickup": "bridge (raw, aggressive)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://www.premierguitar.com/videos/rig-rundown/idles-2024",
+        "title": "IDLES Rig Rundown 2024 — Premier Guitar"
+      },
+      {
+        "url": "https://equipboard.com/pros/lee-kiernan",
+        "title": "Lee Kiernan (IDLES) Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/danny-nedelko--idles--riff--distorted--guitar/"
+  },
+  {
+    "song": "Wonderful Tonight",
+    "artist": "Eric Clapton",
+    "genre": "blues",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 5.5,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender Twin Reverb (clean channel) — \"Blackie\" Stratocaster, NECK pickup",
+      "notes": "Clapton’s tender ballad. He used his \"Blackie\" Stratocaster on the NECK pickup for a creamy, warm, rounded clean, into a Fender Twin Reverb on the clean channel — warm tube headroom with just a smooth edge-of-breakup when you dig in. Almost all the tone is the neck single-coil and finger touch; a little reverb for space.",
+      "guitar": "",
+      "pickups": "neck (single-coil, warm & creamy)"
+    },
+    "effects": [
+      "reverb"
+    ],
+    "pickup": "neck (single-coil, warm & creamy)",
+    "confidence": 0.76,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/wonderful-tonight-amp-settings/",
+        "title": "Wonderful Tonight Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://www.fender.com/tone/presets/wonderful-tonight-37752748",
+        "title": "Wonderful Tonight Tone Preset — Fender Tone"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/wonderful-tonight--eric-clapton--riff--clean--guitar/"
+  },
+  {
+    "song": "Linger",
+    "artist": "The Cranberries",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1.5,
+      "bass": 4.5,
+      "mid": 5.5,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Vox AC30 / Fender Twin (Vox tremolo) — Telecaster, DOD Chorus",
+      "notes": "The Cranberries’ dreamy debut hit. Noel Hogan played a Telecaster (single-coils, clear and chiming) into a Vox AC30 and Fender Twin, often with the Vox tremolo, and — crucially — a DOD Chorus that IS the signature Cranberries jangle. The tone is a bright, clean, chiming, chorus-washed arpeggio — dreamy and shimmering, almost no gain.",
+      "guitar": "",
+      "pickups": "bridge/neck (Telecaster, clear & chiming)"
+    },
+    "effects": [
+      "chorus",
+      "reverb"
+    ],
+    "pickup": "bridge/neck (Telecaster, clear & chiming)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.guitarchalk.com/amp-settings-linger-the-cranberries/",
+        "title": "Linger Amp Settings — Guitar Chalk"
+      },
+      {
+        "url": "https://www.soundonsound.com/techniques/classic-tracks-cranberries-linger",
+        "title": "Classic Tracks: Linger — Sound on Sound"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/linger--the-cranberries--riff--clean--guitar/"
+  },
+  {
+    "song": "Bad Medicine",
+    "artist": "Bon Jovi",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6.5,
+      "treble": 5.5,
+      "presence": 5.5,
+      "reverb": 2.5
+    },
+    "original_gear": {
+      "amp": "Marshall JCM800 — fatter, focused 80s arena-rock crunch (Sambora)",
+      "notes": "A New Jersey-era Bon Jovi anthem. Richie Sambora ran a Marshall JCM800 for that big, souped-up 80s arena crunch — a fatter, more focused sound with MORE bass and mids and LESS treble, with hall reverb for the big-room feel. Gain high (7-8), a Les Paul or Strat driving it. Thick, punchy and anthemic.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, thick)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "bridge (humbucker, thick)",
+    "confidence": 0.74,
+    "sources": [
+      {
+        "url": "https://musicstrive.com/bon-jovi-guitar-tone/",
+        "title": "Bon Jovi Guitar Tone Guide — MusicStrive"
+      },
+      {
+        "url": "https://www.guitarchalk.com/richie-sambora-amp-settings/",
+        "title": "Richie Sambora Amp Settings — Guitar Chalk"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/bad-medicine--bon-jovi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Have a Nice Day",
+    "artist": "Bon Jovi",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5.5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Two Diezel Herbert heads (stereo) into Marshall cabs — modern arena high-gain",
+      "notes": "The 2005 Bon Jovi comeback anthem. On this era Richie Sambora ran two Diezel Herbert heads in stereo (into Marshall 1960 cabs with Celestions) for a big, modern, tight arena-rock high-gain — more focused and hi-fi than the raw 80s JCM800 sound. High gain, mids present, punchy and wide.",
+      "guitar": "",
+      "pickups": "bridge (humbucker, tight & modern)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "bridge (humbucker, tight & modern)",
+    "confidence": 0.72,
+    "sources": [
+      {
+        "url": "https://musicstrive.com/bon-jovi-guitar-tone/",
+        "title": "Bon Jovi Guitar Tone Guide — MusicStrive"
+      },
+      {
+        "url": "https://equipboard.com/pros/richie-sambora",
+        "title": "Richie Sambora Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/have-a-nice-day--bon-jovi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sunday Bloody Sunday",
+    "artist": "U2",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2.5,
+      "bass": 5,
+      "mid": 5.5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Vox AC30 — Telecaster, with a Memory Man / Korg SDD-3000 delay (the chime)",
+      "notes": "The Edge’s signature chime. A Telecaster (or Strat) into a Vox AC30, with the delay as the secret weapon — a Memory Man live in the early 80s, then a Korg SDD-3000 for the \"chimey breakup\". For Sunday Bloody Sunday the delay is set around 100 ms with feedback around 40 for the fast, rhythmic repeats. Bright, jangly, chiming clean — treble way up, the delay filling in the rhythm.",
+      "guitar": "",
+      "pickups": "bridge (Telecaster, bright & chiming)"
+    },
+    "effects": [
+      "delay",
+      "reverb"
+    ],
+    "pickup": "bridge (Telecaster, bright & chiming)",
+    "confidence": 0.76,
+    "sources": [
+      {
+        "url": "https://www.amnesta.net/edge_delay/",
+        "title": "A Study of The Edge’s Guitar Delay — Amnesta"
+      },
+      {
+        "url": "https://www.fender.com/tone/presets/u2-sunday-bloody-sunday-698433816",
+        "title": "Sunday Bloody Sunday Tone Preset — Fender Tone"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/sunday-bloody-sunday--u2--riff--clean--guitar/"
+  },
+  {
+    "song": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5.5,
+      "mid": 6.5,
+      "treble": 5.5,
+      "presence": 5,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Marshall JTM45 into a Laney 4x12 — Gibson Les Paul, fingerstyle, lush ambience",
+      "notes": "Mark Knopfler’s most emotive lead. He swapped his usual Strat for a Gibson Les Paul (from Rudy Pensa) into a Marshall JTM45 (via a Laney 4x12) for the \"emotional weight\" — a warm, smooth, singing, sustained lead played fingerstyle, drenched in lush reverb/ambience. Low-medium gain (the sustain and warmth come from the Les Paul + JTM45 and touch), tone rolled back, mids up. \"It just needed two or three notes.\"",
+      "guitar": "",
+      "pickups": "neck/bridge (Les Paul, warm & singing)"
+    },
+    "effects": [
+      "distortion",
+      "reverb"
+    ],
+    "pickup": "neck/bridge (Les Paul, warm & singing)",
+    "confidence": 0.75,
+    "sources": [
+      {
+        "url": "https://www.mk-guitar.com/gear-on-all-songs-for-all-albums-wiki/gear-on-album-brothers-in-arms/",
+        "title": "Gear on Brothers in Arms — Mark Knopfler Guitar Site"
+      },
+      {
+        "url": "https://www.guitarchalk.com/mark-knopfler-dire-straits-amp-settings/",
+        "title": "Mark Knopfler Amp Settings — Guitar Chalk"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/brothers-in-arms--dire-straits--solo--distorted--guitar/"
+  },
+  {
+    "song": "Reelin in the Years",
+    "artist": "Steely Dan",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 3.5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6.5,
+      "presence": 6,
+      "reverb": 1.5
+    },
+    "original_gear": {
+      "amp": "Ampeg SVT (a bass amp!) — 1963 Fender Stratocaster with a PAF humbucker in the neck",
+      "notes": "Elliott Randall’s legendary solo — nailed in one continuous take. He played his 1963 Fender Stratocaster (fitted with a PAF humbucker in the NECK) straight into an Ampeg SVT bass amp, miked with a single AKG 414. The unlikely rig gave a bright, articulate, snappy lead with humbucker warmth up top — fast, fluid, melodic runs, low-medium gain with plenty of clarity.",
+      "guitar": "",
+      "pickups": "neck (PAF humbucker in a Strat, warm-yet-bright)"
+    },
+    "effects": [
+      "distortion"
+    ],
+    "pickup": "neck (PAF humbucker in a Strat, warm-yet-bright)",
+    "confidence": 0.73,
+    "sources": [
+      {
+        "url": "https://www.guitarworld.com/artists/elliott-randall-nailed-steely-dans-reelin-years-one-continuous-take",
+        "title": "Elliott Randall on Reelin in the Years — Guitar World"
+      },
+      {
+        "url": "https://equipboard.com/pros/elliott-randall",
+        "title": "Elliott Randall Gear — Equipboard"
+      }
+    ],
+    "url": "https://guitartoneadapt.com/tone/reelin-in-the-years--steely-dan--solo--distorted--guitar/"
+  },
+  {
+    "song": "Tornado of Souls",
+    "artist": "Megadeth",
+    "genre": "metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / ADA MP-1 preamp",
+      "notes": "Jackson KE with Seymour Duncan bridge humbucker; ADA MP-1 preamp into a Marshall power section was Marty's Rust in Peace-era lead voice.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "long analog delay (subtle)"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/tornado-of-souls--megadeth--solo--distorted--guitar/"
+  },
+  {
+    "song": "Surfing with the Alien",
+    "artist": "Joe Satriani",
+    "genre": "instrumental rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall (JCM800-era) / later JSX",
+      "notes": "Modified Kramer (later Ibanez JS) with a hot bridge humbucker; the vocal-like sustain comes from smooth high-gain plus stereo delay.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "stereo delay",
+      "light chorus"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/surfing-with-the-alien--joe-satriani--solo--distorted--guitar/"
+  },
+  {
+    "song": "For the Love of God",
+    "artist": "Steve Vai",
+    "genre": "instrumental rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 6,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Carvin Legacy / Marshall",
+      "notes": "Ibanez JEM into a Carvin Legacy; expressive vibrato, whammy and long delay build the vocal, weeping quality.",
+      "guitar": "",
+      "pickups": "bridge humbucker (Ibanez JEM)"
+    },
+    "effects": [
+      "long delay",
+      "reverb"
+    ],
+    "pickup": "bridge humbucker (Ibanez JEM)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/for-the-love-of-god--steve-vai--solo--distorted--guitar/"
+  },
+  {
+    "song": "Crazy Train",
+    "artist": "Ozzy Osbourne",
+    "genre": "metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall 1959 Super Lead",
+      "notes": "Les Paul Custom / polka-dot Flying V into a cranked Marshall 1959 with an MXR Distortion+ pushing the front end.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "MXR Distortion+"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/crazy-train--ozzy-osbourne--solo--distorted--guitar/"
+  },
+  {
+    "song": "Black Star",
+    "artist": "Yngwie Malmsteen",
+    "genre": "neoclassical metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 4,
+      "mid": 7,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall Mark II / 1959",
+      "notes": "Scalloped Fender Strat (neck single-coil for the smooth legato) into a Marshall boosted by a DOD 250.",
+      "guitar": "",
+      "pickups": "neck single-coil (scalloped Strat)"
+    },
+    "effects": [
+      "light reverb"
+    ],
+    "pickup": "neck single-coil (scalloped Strat)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/black-star--yngwie-malmsteen--solo--distorted--guitar/"
+  },
+  {
+    "song": "Angel of Death",
+    "artist": "Slayer",
+    "genre": "thrash metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 9,
+      "bass": 6,
+      "mid": 4,
+      "treble": 8,
+      "presence": 7,
+      "reverb": 1
+    },
+    "original_gear": {
+      "amp": "Marshall JCM800",
+      "notes": "Charvel/Jackson superstrats into cranked Marshall JCM800s; the solos are wild, dive-bombed and intentionally raw.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/angel-of-death--slayer--solo--distorted--guitar/"
+  },
+  {
+    "song": "Scarified",
+    "artist": "Racer X",
+    "genre": "shred metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall (high-gain)",
+      "notes": "Ibanez into a high-gain Marshall; tight, articulate high-gain so the rapid alternate-picked runs stay defined.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "light delay"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/scarified--racer-x--solo--distorted--guitar/"
+  },
+  {
+    "song": "All Along the Watchtower",
+    "artist": "Jimi Hendrix",
+    "genre": "rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall Super Lead",
+      "notes": "Fender Strat into a cranked Marshall with a Fuzz Face; expressive, vocal fuzz-lead.",
+      "guitar": "",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [
+      "Fuzz Face",
+      "wah",
+      "Uni-Vibe"
+    ],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/all-along-the-watchtower--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Layla",
+    "artist": "Derek and the Dominos",
+    "genre": "blues rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender Champ / Marshall",
+      "notes": "Les Paul into a small cranked amp; Duane's slide parts used open tuning and a glass slide.",
+      "guitar": "",
+      "pickups": "bridge humbucker (Les Paul)"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker (Les Paul)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/layla--derek-and-the-dominos--solo--distorted--guitar/"
+  },
+  {
+    "song": "Highway Star",
+    "artist": "Deep Purple",
+    "genre": "hard rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall Major",
+      "notes": "Fender Strat into a Marshall Major, sometimes through an AIWA tape preamp for extra push.",
+      "guitar": "",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/highway-star--deep-purple--solo--distorted--guitar/"
+  },
+  {
+    "song": "Master of Puppets",
+    "artist": "Metallica",
+    "genre": "thrash metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall JCM800 / Mesa Boogie",
+      "notes": "ESP into a Marshall JCM800 boosted for leads; a Cry Baby wah shapes the phrasing.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "wah"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/master-of-puppets--metallica--solo--distorted--guitar/"
+  },
+  {
+    "song": "One",
+    "artist": "Metallica",
+    "genre": "thrash metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 7,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall JCM800 / Mesa Boogie",
+      "notes": "ESP into cranked Marshall/Mesa; the tight, bright gain keeps the rapid tremolo-picked bursts defined.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "wah"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/one--metallica--solo--distorted--guitar/"
+  },
+  {
+    "song": "Cliffs of Dover",
+    "artist": "Eric Johnson",
+    "genre": "instrumental rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall (100W) / Fender",
+      "notes": "Strat neck pickup into a Marshall with a Tube Driver in front and an Echoplex for the liquid delay.",
+      "guitar": "",
+      "pickups": "neck single-coil (Strat)"
+    },
+    "effects": [
+      "Tube Driver",
+      "Echoplex delay"
+    ],
+    "pickup": "neck single-coil (Strat)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cliffs-of-dover--eric-johnson--solo--distorted--guitar/"
+  },
+  {
+    "song": "Little Wing",
+    "artist": "Jimi Hendrix",
+    "genre": "rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 5,
+      "presence": 4,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (edge of breakup)",
+      "notes": "Strat neck pickup through a Leslie/Uni-Vibe into an amp on the edge of breakup; warm and glassy.",
+      "guitar": "",
+      "pickups": "Strat neck single-coil"
+    },
+    "effects": [
+      "Uni-Vibe",
+      "light overdrive"
+    ],
+    "pickup": "Strat neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/little-wing--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Since Ive Been Loving You",
+    "artist": "Led Zeppelin",
+    "genre": "blues rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Supro",
+      "notes": "Les Paul (neck pickup) into a cranked amp; the emotion comes from volume-knob and pick dynamics, not high gain.",
+      "guitar": "",
+      "pickups": "neck humbucker (Les Paul)"
+    },
+    "effects": [],
+    "pickup": "neck humbucker (Les Paul)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/since-ive-been-loving-you--led-zeppelin--solo--distorted--guitar/"
+  },
+  {
+    "song": "Money",
+    "artist": "Pink Floyd",
+    "genre": "progressive rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Hiwatt / Fender",
+      "notes": "Strat bridge pickup into a Hiwatt with a Big Muff; the harder middle section is drier and more cutting.",
+      "guitar": "",
+      "pickups": "Strat bridge single-coil"
+    },
+    "effects": [
+      "Big Muff",
+      "delay"
+    ],
+    "pickup": "Strat bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/money--pink-floyd--solo--distorted--guitar/"
+  },
+  {
+    "song": "Cemetery Gates",
+    "artist": "Pantera",
+    "genre": "metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Randall (solid-state)",
+      "notes": "Dean ML into a Randall solid-state head; the biting, harmonic-rich lead tone is pure Dimebag.",
+      "guitar": "",
+      "pickups": "bridge humbucker (Dean)"
+    },
+    "effects": [
+      "MXR Flanger (intro)"
+    ],
+    "pickup": "bridge humbucker (Dean)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cemetery-gates--pantera--solo--distorted--guitar/"
+  },
+  {
+    "song": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "genre": "progressive rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Hiwatt / Fender",
+      "notes": "Strat into a clean-ish amp with mild overdrive; the tone is restrained, letting the phrasing speak.",
+      "guitar": "",
+      "pickups": "Strat bridge single-coil"
+    },
+    "effects": [
+      "light overdrive"
+    ],
+    "pickup": "Strat bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/wish-you-were-here--pink-floyd--solo--distorted--guitar/"
+  },
+  {
+    "song": "Kid Charlemagne",
+    "artist": "Steely Dan",
+    "genre": "jazz rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Dumble-style",
+      "notes": "A 335-style guitar into a smooth, singing amp; sophisticated jazz-rock phrasing over the changes.",
+      "guitar": "",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/kid-charlemagne--steely-dan--solo--distorted--guitar/"
   }
 ]
