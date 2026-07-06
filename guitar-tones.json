@@ -32671,5 +32671,4075 @@
     "confidence": 0.6,
     "sources": [],
     "url": "https://guitartoneadapt.com/tone/kid-charlemagne--steely-dan--solo--distorted--guitar/"
+  },
+  {
+    "song": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "genre": "rock and roll",
+    "era": "1950s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender Bassman",
+      "notes": "Semi-hollow into a loud Fender on the edge of breakup; brightness and attack define it, not gain.",
+      "guitar": "Gibson ES-350T",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/johnny-b-goode--chuck-berry--solo--distorted--guitar/"
+  },
+  {
+    "song": "Voodoo Child (Slight Return)",
+    "artist": "Jimi Hendrix",
+    "genre": "rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall Super Lead",
+      "notes": "Strat into a cranked Marshall with a Cry Baby wah and Fuzz Face; expressive, dynamic.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [
+      "wah",
+      "Fuzz Face"
+    ],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/voodoo-child-slight-return--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Pride and Joy",
+    "artist": "Stevie Ray Vaughan",
+    "genre": "blues",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 6,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender Vibroverb / Marshall",
+      "notes": "Heavy-gauge strings on a Strat into loud Fender amps, pushed with a Tube Screamer; huge fingerstyle attack.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [
+      "Tube Screamer"
+    ],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/pride-and-joy--stevie-ray-vaughan--solo--distorted--guitar/"
+  },
+  {
+    "song": "Money for Nothing",
+    "artist": "Dire Straits",
+    "genre": "rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Laney / Marshall",
+      "notes": "Les Paul neck pickup into an amp with a wah parked in a fixed position, plus mic/room placement; fingerstyle.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "neck humbucker"
+    },
+    "effects": [
+      "wah (parked)"
+    ],
+    "pickup": "neck humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/money-for-nothing--dire-straits--solo--distorted--guitar/"
+  },
+  {
+    "song": "Europa",
+    "artist": "Santana",
+    "genre": "latin rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Mesa/Boogie Mark",
+      "notes": "Neck humbucker into a Mesa Boogie Mark for endless sustain; long reverb tail and slow, expressive vibrato.",
+      "guitar": "Gibson / PRS",
+      "pickups": "neck humbucker"
+    },
+    "effects": [],
+    "pickup": "neck humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/europa--santana--solo--distorted--guitar/"
+  },
+  {
+    "song": "Crossroads",
+    "artist": "Cream",
+    "genre": "blues rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 7,
+      "treble": 4,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Gibson neck pickup with the tone control rolled well back into a cranked Marshall — the classic woman tone.",
+      "guitar": "Gibson ES-335 / SG",
+      "pickups": "neck humbucker (tone rolled)"
+    },
+    "effects": [],
+    "pickup": "neck humbucker (tone rolled)",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/crossroads--cream--solo--distorted--guitar/"
+  },
+  {
+    "song": "More Than a Feeling",
+    "artist": "Boston",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall (+ Scholz processing)",
+      "notes": "Les Paul into a cranked Marshall with Scholz's own power-soak/processing; heavily layered and harmonized.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/more-than-a-feeling--boston--solo--distorted--guitar/"
+  },
+  {
+    "song": "Paradise City",
+    "artist": "Guns N Roses",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Les Paul bridge pickup into a cranked Marshall; no-frills, all in the hands and the amp.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/paradise-city--guns-n-roses--solo--distorted--guitar/"
+  },
+  {
+    "song": "Mr. Crowley",
+    "artist": "Ozzy Osbourne",
+    "genre": "metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall 1959 Super Lead",
+      "notes": "Les Paul Custom into a cranked Marshall 1959 with an MXR Distortion+ and a touch of chorus; layered harmonies.",
+      "guitar": "Gibson Les Paul Custom",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "MXR Distortion+",
+      "chorus"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/mr-crowley--ozzy-osbourne--solo--distorted--guitar/"
+  },
+  {
+    "song": "Enter Sandman",
+    "artist": "Metallica",
+    "genre": "metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Mesa/Boogie Mark IIC+",
+      "notes": "ESP into a Mesa Boogie for the tight Black-Album lead voice; a Cry Baby shapes the phrasing.",
+      "guitar": "ESP",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "wah"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/enter-sandman--metallica--solo--distorted--guitar/"
+  },
+  {
+    "song": "Aqualung",
+    "artist": "Jethro Tull",
+    "genre": "progressive rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Hiwatt / Marshall",
+      "notes": "Les Paul into a cranked British amp; mid-rich, punchy and vocal, with strong dynamics.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/aqualung--jethro-tull--solo--distorted--guitar/"
+  },
+  {
+    "song": "Rock You Like a Hurricane",
+    "artist": "Scorpions",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Humbucker-loaded guitar into a cranked Marshall; bright, cutting 80s gain with a talk-box-flavoured section.",
+      "guitar": "Gibson Explorer / Dommenget",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/rock-you-like-a-hurricane--scorpions--solo--distorted--guitar/"
+  },
+  {
+    "song": "Back in Black",
+    "artist": "AC/DC",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "SG straight into a cranked Marshall, no pedals; the tone is all guitar, amp and attack.",
+      "guitar": "Gibson SG",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/back-in-black--ac-dc--solo--distorted--guitar/"
+  },
+  {
+    "song": "Thunderstruck",
+    "artist": "AC/DC",
+    "genre": "hard rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "SG into a loud Marshall; brightness and clarity keep the rapid tapped notes distinct.",
+      "guitar": "Gibson SG",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/thunderstruck--ac-dc--solo--distorted--guitar/"
+  },
+  {
+    "song": "Whole Lotta Love",
+    "artist": "Led Zeppelin",
+    "genre": "hard rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Supro",
+      "notes": "Les Paul into cranked amps; the middle section layers theremin and backwards-echo textures around the lead.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "theremin (fx section)"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/whole-lotta-love--led-zeppelin--solo--distorted--guitar/"
+  },
+  {
+    "song": "Heartbreaker",
+    "artist": "Led Zeppelin",
+    "genre": "hard rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Les Paul into a cranked Marshall; the solo was famously overdubbed separately, raw and slightly loose.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/heartbreaker--led-zeppelin--solo--distorted--guitar/"
+  },
+  {
+    "song": "Walk This Way",
+    "artist": "Aerosmith",
+    "genre": "hard rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Les Paul into a cranked Marshall; loose, funky phrasing with a greasy midrange.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/walk-this-way--aerosmith--solo--distorted--guitar/"
+  },
+  {
+    "song": "Dream On",
+    "artist": "Aerosmith",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "Les Paul into a warm amp; the solo grows with the arrangement from smooth to soaring.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/dream-on--aerosmith--solo--distorted--guitar/"
+  },
+  {
+    "song": "Carry On Wayward Son",
+    "artist": "Kansas",
+    "genre": "progressive rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Les Paul into a cranked amp with harmonized overdubs; smooth, singing sustain.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/carry-on-wayward-son--kansas--solo--distorted--guitar/"
+  },
+  {
+    "song": "La Grange",
+    "artist": "ZZ Top",
+    "genre": "blues rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / tweed Fender",
+      "notes": "The legendary Pearly Gates Les Paul into cranked amps; a light touch, a peso pick and thin strings shape the tone.",
+      "guitar": "Gibson Les Paul (Pearly Gates)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/la-grange--zz-top--solo--distorted--guitar/"
+  },
+  {
+    "song": "Barracuda",
+    "artist": "Heart",
+    "genre": "hard rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Les Paul into a cranked Marshall; the intro gallop uses a flanger, the lead is bright and aggressive.",
+      "guitar": "Gibson Les Paul",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "flanger (riff)"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/barracuda--heart--solo--distorted--guitar/"
+  },
+  {
+    "song": "Hallowed Be Thy Name",
+    "artist": "Iron Maiden",
+    "genre": "heavy metal",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Marshall-driven twin guitars trading and harmonizing; bright, articulate NWOBHM lead voicing.",
+      "guitar": "various (Murray/Smith)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/hallowed-be-thy-name--iron-maiden--solo--distorted--guitar/"
+  },
+  {
+    "song": "Purple Haze",
+    "artist": "Jimi Hendrix",
+    "genre": "rock",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Strat into a Marshall with a Fuzz Face and the Octavia octave-fuzz on the solo section.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [
+      "Fuzz Face",
+      "Octavia"
+    ],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/purple-haze--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "genre": "southern rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (edge of breakup)",
+      "notes": "Strat into an amp on the edge of breakup; bright, clean-ish Southern-rock tone with ringing double-stops.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sweet-home-alabama--lynyrd-skynyrd--solo--distorted--guitar/"
+  },
+  {
+    "song": "Cevapsız Sorular",
+    "artist": "maNga",
+    "genre": "nu metal",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Mesa/Boogie or Marshall (high-gain)",
+      "notes": "",
+      "guitar": "humbucker-loaded (Ibanez/ESP)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cevapsiz-sorular--manga--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sil Baştan",
+    "artist": "Şebnem Ferah",
+    "genre": "hard rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Gibson / superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sil-bastan--sebnem-ferah--riff--distorted--guitar/"
+  },
+  {
+    "song": "Anatolia",
+    "artist": "Pentagram",
+    "genre": "heavy metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "humbucker-loaded",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/anatolia--pentagram--riff--distorted--guitar/"
+  },
+  {
+    "song": "Namus Belası",
+    "artist": "Cem Karaca",
+    "genre": "anatolian rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "vintage tube (Fender/Vox-style)",
+      "notes": "",
+      "guitar": "single-coil / semi-hollow",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/namus-belasi--cem-karaca--riff--distorted--guitar/"
+  },
+  {
+    "song": "Dağlar Dağlar",
+    "artist": "Barış Manço",
+    "genre": "anatolian rock",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 4,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "vintage tube (edge of breakup)",
+      "notes": "",
+      "guitar": "single-coil",
+      "pickups": "neck single-coil"
+    },
+    "effects": [],
+    "pickup": "neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/daglar-daglar--baris-manco--riff--clean--guitar/"
+  },
+  {
+    "song": "Paramparça",
+    "artist": "Teoman",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/paramparca--teoman--riff--distorted--guitar/"
+  },
+  {
+    "song": "Ben Böyleyim",
+    "artist": "Athena",
+    "genre": "ska punk",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "humbucker/superstrat",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/ben-boyleyim--athena--riff--distorted--guitar/"
+  },
+  {
+    "song": "Yağmurun Elleri",
+    "artist": "Kurban",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/yagmurun-elleri--kurban--riff--distorted--guitar/"
+  },
+  {
+    "song": "Entre Dos Tierras",
+    "artist": "Héroes del Silencio",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Gibson / Fender",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/entre-dos-tierras--heroes-del-silencio--riff--distorted--guitar/"
+  },
+  {
+    "song": "Bu Akşam",
+    "artist": "Duman",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bu-aksam--duman--riff--distorted--guitar/"
+  },
+  {
+    "song": "Köprüaltı",
+    "artist": "Duman",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/koprualti--duman--riff--distorted--guitar/"
+  },
+  {
+    "song": "Bir Kadın Çizeceksin",
+    "artist": "maNga",
+    "genre": "nu metal",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bir-kadin-cizeceksin--manga--riff--distorted--guitar/"
+  },
+  {
+    "song": "Can Kırıkları",
+    "artist": "Şebnem Ferah",
+    "genre": "hard rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/can-kiriklari--sebnem-ferah--riff--distorted--guitar/"
+  },
+  {
+    "song": "Bir Derdim Var",
+    "artist": "mor ve ötesi",
+    "genre": "alternative rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bir-derdim-var--mor-ve-otesi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Beş",
+    "artist": "Gripin",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bes--gripin--riff--distorted--guitar/"
+  },
+  {
+    "song": "Afili Yalnızlık",
+    "artist": "Emre Aydın",
+    "genre": "alternative rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/afili-yalnizlik--emre-aydin--riff--distorted--guitar/"
+  },
+  {
+    "song": "Bir",
+    "artist": "Pentagram",
+    "genre": "heavy metal",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bir--pentagram--riff--distorted--guitar/"
+  },
+  {
+    "song": "Limelight",
+    "artist": "Rush",
+    "genre": "progressive rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 4
+    },
+    "original_gear": {
+      "amp": "Marshall / Hughes & Kettner",
+      "notes": "Gibson into a cranked amp with heavy chorus and reverb; loose, vocal whammy-bar phrasing.",
+      "guitar": "Gibson / Fender",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "chorus"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/limelight--rush--solo--distorted--guitar/"
+  },
+  {
+    "song": "Africa",
+    "artist": "Toto",
+    "genre": "pop rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Bogner-style",
+      "notes": "Lukather's humbucker guitar into a refined amp; smooth mid-gain with a polished sheen.",
+      "guitar": "custom (Steve Lukather)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/africa--toto--solo--distorted--guitar/"
+  },
+  {
+    "song": "Hold the Line",
+    "artist": "Toto",
+    "genre": "pop rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Humbucker guitar into a cranked Marshall; brighter and more aggressive than Africa.",
+      "guitar": "custom (Steve Lukather)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/hold-the-line--toto--solo--distorted--guitar/"
+  },
+  {
+    "song": "Photograph",
+    "artist": "Def Leppard",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall (+ studio layering)",
+      "notes": "Multiple layered guitars into cranked Marshalls with Mutt Lange's polished production.",
+      "guitar": "Gibson / superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/photograph--def-leppard--solo--distorted--guitar/"
+  },
+  {
+    "song": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "SG straight into a cranked Marshall, no pedals; all in the hands and the amp.",
+      "guitar": "Gibson SG",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/you-shook-me-all-night-long--ac-dc--solo--distorted--guitar/"
+  },
+  {
+    "song": "Sharp Dressed Man",
+    "artist": "ZZ Top",
+    "genre": "blues rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Pearly Gates Les Paul into cranked amps; light touch, thin pick, fuzzy sizzle.",
+      "guitar": "Gibson Les Paul (Pearly Gates)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sharp-dressed-man--zz-top--solo--distorted--guitar/"
+  },
+  {
+    "song": "Whipping Post",
+    "artist": "The Allman Brothers Band",
+    "genre": "southern rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "Gibsons into cranked amps; interweaving leads, slide and blues phrasing with huge dynamics.",
+      "guitar": "Gibson Les Paul / SG",
+      "pickups": "neck/bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "neck/bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/whipping-post--the-allman-brothers-band--solo--distorted--guitar/"
+  },
+  {
+    "song": "Wanted Dead or Alive",
+    "artist": "Bon Jovi",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "Sambora used a doubleneck (12-string acoustic + electric); the electric lead is warm and soaring.",
+      "guitar": "Jackson / doubleneck 12-string",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "talk box (elsewhere)"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/wanted-dead-or-alive--bon-jovi--solo--distorted--guitar/"
+  },
+  {
+    "song": "Livin on a Prayer",
+    "artist": "Bon Jovi",
+    "genre": "hard rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "A Heil talk box on the intro/solo shapes the vocal-like guitar; the lead is bright arena rock.",
+      "guitar": "Jackson",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "talk box"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/livin-on-a-prayer--bon-jovi--solo--distorted--guitar/"
+  },
+  {
+    "song": "Machine Gun",
+    "artist": "Jimi Hendrix",
+    "genre": "rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "Strat into a Marshall with Fuzz Face, Uni-Vibe and wah; controlled feedback and huge dynamics.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "Strat single-coil"
+    },
+    "effects": [
+      "Fuzz Face",
+      "Uni-Vibe",
+      "wah"
+    ],
+    "pickup": "Strat single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/machine-gun--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Separate Ways",
+    "artist": "Journey",
+    "genre": "arena rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "Schon's humbucker guitar into a refined high-gain amp; smooth, vocal sustain.",
+      "guitar": "custom (Neal Schon)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/separate-ways--journey--solo--distorted--guitar/"
+  },
+  {
+    "song": "Rosanna",
+    "artist": "Toto",
+    "genre": "pop rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Bogner-style",
+      "notes": "Lukather's humbucker into a smooth amp; controlled mid-gain with polished sustain.",
+      "guitar": "custom (Steve Lukather)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/rosanna--toto--solo--distorted--guitar/"
+  },
+  {
+    "song": "G.O.A.T.",
+    "artist": "Polyphia",
+    "genre": "progressive",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "high-gain profiler",
+      "notes": "",
+      "guitar": "Ibanez (Tim Henson signature)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "delay"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/g-o-a-t--polyphia--riff--distorted--guitar/"
+  },
+  {
+    "song": "Handmade Cities",
+    "artist": "Plini",
+    "genre": "progressive",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "modern profiler",
+      "notes": "Extended-range guitar into a smooth modern high-gain with generous ambient delay/reverb.",
+      "guitar": "7-string (Plini signature)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "delay",
+      "reverb"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/handmade-cities--plini--riff--distorted--guitar/"
+  },
+  {
+    "song": "A Voice Within",
+    "artist": "Intervals",
+    "genre": "progressive",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "modern profiler",
+      "notes": "",
+      "guitar": "7-string",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "delay"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/a-voice-within--intervals--riff--distorted--guitar/"
+  },
+  {
+    "song": "Concealing Fate Part 1",
+    "artist": "TesseracT",
+    "genre": "djent",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "high-gain profiler",
+      "notes": "8-string into a tight modern high-gain; ultra-precise, syncopated low-tuned chugging.",
+      "guitar": "8-string (down-tuned)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/concealing-fate-part-1--tesseract--riff--distorted--guitar/"
+  },
+  {
+    "song": "Scarlet",
+    "artist": "Periphery",
+    "genre": "djent",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "high-gain profiler",
+      "notes": "",
+      "guitar": "6/7-string (down-tuned)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/scarlet--periphery--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sweet Home Chicago",
+    "artist": "Robert Johnson",
+    "genre": "blues",
+    "era": "1930s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender tweed (edge of breakup)",
+      "notes": "",
+      "guitar": "hollow / Telecaster",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sweet-home-chicago--robert-johnson--riff--distorted--guitar/"
+  },
+  {
+    "song": "Hoochie Coochie Man",
+    "artist": "Muddy Waters",
+    "genre": "blues",
+    "era": "1950s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender tweed / Chicago blues amp",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/hoochie-coochie-man--muddy-waters--riff--distorted--guitar/"
+  },
+  {
+    "song": "Boom Boom",
+    "artist": "John Lee Hooker",
+    "genre": "blues",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 6,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / valve combo",
+      "notes": "",
+      "guitar": "hollowbody",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/boom-boom--john-lee-hooker--riff--distorted--guitar/"
+  },
+  {
+    "song": "Born Under a Bad Sign",
+    "artist": "Albert King",
+    "genre": "blues",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 6,
+      "mid": 7,
+      "treble": 5,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Acoustic 360 / Fender",
+      "notes": "Albert played a Flying V (upside-down, left-handed) with unique tuning; his bends are legendary.",
+      "guitar": "Gibson Flying V (\"Lucy\")",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/born-under-a-bad-sign--albert-king--solo--distorted--guitar/"
+  },
+  {
+    "song": "The Sky Is Crying",
+    "artist": "Albert King",
+    "genre": "blues",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Acoustic",
+      "notes": "",
+      "guitar": "Gibson Flying V",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/the-sky-is-crying--albert-king--solo--distorted--guitar/"
+  },
+  {
+    "song": "Hide Away",
+    "artist": "Freddie King",
+    "genre": "blues",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Gibson ES-345",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/hide-away--freddie-king--solo--distorted--guitar/"
+  },
+  {
+    "song": "Cold Shot",
+    "artist": "Stevie Ray Vaughan",
+    "genre": "blues",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "middle/neck single-coil"
+    },
+    "effects": [
+      "Tube Screamer"
+    ],
+    "pickup": "middle/neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cold-shot--stevie-ray-vaughan--riff--distorted--guitar/"
+  },
+  {
+    "song": "Couldnt Stand the Weather",
+    "artist": "Stevie Ray Vaughan",
+    "genre": "blues",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [
+      "Tube Screamer"
+    ],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/couldnt-stand-the-weather--stevie-ray-vaughan--riff--distorted--guitar/"
+  },
+  {
+    "song": "Red House",
+    "artist": "Jimi Hendrix",
+    "genre": "blues",
+    "era": "1960s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "neck single-coil"
+    },
+    "effects": [],
+    "pickup": "neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/red-house--jimi-hendrix--solo--distorted--guitar/"
+  },
+  {
+    "song": "Stormy Monday",
+    "artist": "The Allman Brothers Band",
+    "genre": "blues",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 7,
+      "treble": 5,
+      "presence": 4,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Gibson Les Paul",
+      "pickups": "neck humbucker"
+    },
+    "effects": [],
+    "pickup": "neck humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/stormy-monday--the-allman-brothers-band--solo--distorted--guitar/"
+  },
+  {
+    "song": "I Cant Quit You Baby",
+    "artist": "Otis Rush",
+    "genre": "blues",
+    "era": "1950s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/i-cant-quit-you-baby--otis-rush--solo--distorted--guitar/"
+  },
+  {
+    "song": "Cocaine",
+    "artist": "Eric Clapton",
+    "genre": "blues",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Music Man",
+      "notes": "",
+      "guitar": "Fender Stratocaster (\"Blackie\")",
+      "pickups": "middle single-coil"
+    },
+    "effects": [],
+    "pickup": "middle single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cocaine--eric-clapton--solo--distorted--guitar/"
+  },
+  {
+    "song": "Heart-Shaped Box",
+    "artist": "Nirvana",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Mesa",
+      "notes": "",
+      "guitar": "Fender Jaguar / Mustang",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "Electro-Harmonix Big Muff (chorus)",
+      "chorus"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/heart-shaped-box--nirvana--riff--distorted--guitar/"
+  },
+  {
+    "song": "Rusty Cage",
+    "artist": "Soundgarden",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Mesa/Boogie / Marshall",
+      "notes": "",
+      "guitar": "various (drop/alt tuning)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/rusty-cage--soundgarden--riff--distorted--guitar/"
+  },
+  {
+    "song": "Would",
+    "artist": "Alice in Chains",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 6,
+      "mid": 6,
+      "treble": 5,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Bogner / Mesa",
+      "notes": "",
+      "guitar": "various (drop tuning)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/would--alice-in-chains--riff--distorted--guitar/"
+  },
+  {
+    "song": "Them Bones",
+    "artist": "Alice in Chains",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Bogner / Mesa",
+      "notes": "",
+      "guitar": "various (drop tuning)",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/them-bones--alice-in-chains--riff--distorted--guitar/"
+  },
+  {
+    "song": "Even Flow",
+    "artist": "Pearl Jam",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [
+      "wah"
+    ],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/even-flow--pearl-jam--solo--distorted--guitar/"
+  },
+  {
+    "song": "Black",
+    "artist": "Pearl Jam",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (edge of breakup)",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/black--pearl-jam--riff--distorted--guitar/"
+  },
+  {
+    "song": "Jeremy",
+    "artist": "Pearl Jam",
+    "genre": "grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "12-string + electric",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/jeremy--pearl-jam--riff--distorted--guitar/"
+  },
+  {
+    "song": "Cherub Rock",
+    "artist": "The Smashing Pumpkins",
+    "genre": "alternative rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [
+      "Big Muff"
+    ],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/cherub-rock--the-smashing-pumpkins--riff--distorted--guitar/"
+  },
+  {
+    "song": "1979",
+    "artist": "The Smashing Pumpkins",
+    "genre": "alternative rock",
+    "era": "1990s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "clean amp + effects",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [
+      "chorus",
+      "delay",
+      "flanger"
+    ],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/1979--the-smashing-pumpkins--riff--clean--guitar/"
+  },
+  {
+    "song": "Bullet with Butterfly Wings",
+    "artist": "The Smashing Pumpkins",
+    "genre": "alternative rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 8,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "various",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "Big Muff"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/bullet-with-butterfly-wings--the-smashing-pumpkins--riff--distorted--guitar/"
+  },
+  {
+    "song": "Glycerine",
+    "artist": "Bush",
+    "genre": "post-grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (edge of breakup)",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/glycerine--bush--riff--distorted--guitar/"
+  },
+  {
+    "song": "Machinehead",
+    "artist": "Bush",
+    "genre": "post-grunge",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "various",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/machinehead--bush--riff--distorted--guitar/"
+  },
+  {
+    "song": "American Idiot",
+    "artist": "Green Day",
+    "genre": "pop punk",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Gibson Les Paul Junior (\"Blue\")",
+      "pickups": "bridge P-90"
+    },
+    "effects": [],
+    "pickup": "bridge P-90",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/american-idiot--green-day--riff--distorted--guitar/"
+  },
+  {
+    "song": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "genre": "pop punk",
+    "era": "1990s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/good-riddance-time-of-your-life--green-day--riff--clean--guitar/"
+  },
+  {
+    "song": "All the Small Things",
+    "artist": "blink-182",
+    "genre": "pop punk",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/all-the-small-things--blink-182--riff--distorted--guitar/"
+  },
+  {
+    "song": "Whats My Age Again",
+    "artist": "blink-182",
+    "genre": "pop punk",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/whats-my-age-again--blink-182--riff--distorted--guitar/"
+  },
+  {
+    "song": "I Miss You",
+    "artist": "blink-182",
+    "genre": "pop punk",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/i-miss-you--blink-182--riff--clean--guitar/"
+  },
+  {
+    "song": "Self Esteem",
+    "artist": "The Offspring",
+    "genre": "punk rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Ibanez / superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/self-esteem--the-offspring--riff--distorted--guitar/"
+  },
+  {
+    "song": "Come Out and Play",
+    "artist": "The Offspring",
+    "genre": "punk rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Ibanez / superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [
+      "Middle-Eastern lead motif"
+    ],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/come-out-and-play--the-offspring--riff--distorted--guitar/"
+  },
+  {
+    "song": "Fat Lip",
+    "artist": "Sum 41",
+    "genre": "pop punk",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/fat-lip--sum-41--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sugar Were Goin Down",
+    "artist": "Fall Out Boy",
+    "genre": "pop punk",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Mesa",
+      "notes": "",
+      "guitar": "Gibson / superstrat",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sugar-were-goin-down--fall-out-boy--riff--distorted--guitar/"
+  },
+  {
+    "song": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "funk rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "solo",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "Frusciante's vintage Strat into a Marshall; low gain, tone rolled back, all in the fingers.",
+      "guitar": "Fender Stratocaster",
+      "pickups": "neck single-coil"
+    },
+    "effects": [],
+    "pickup": "neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/scar-tissue--red-hot-chili-peppers--solo--distorted--guitar/"
+  },
+  {
+    "song": "By the Way",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "funk rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/by-the-way--red-hot-chili-peppers--riff--distorted--guitar/"
+  },
+  {
+    "song": "Snow (Hey Oh)",
+    "artist": "Red Hot Chili Peppers",
+    "genre": "funk rock",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "neck single-coil"
+    },
+    "effects": [],
+    "pickup": "neck single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/snow-hey-oh--red-hot-chili-peppers--riff--clean--guitar/"
+  },
+  {
+    "song": "Folsom Prison Blues",
+    "artist": "Johnny Cash",
+    "genre": "country",
+    "era": "1950s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Fender Telecaster / acoustic",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/folsom-prison-blues--johnny-cash--riff--clean--guitar/"
+  },
+  {
+    "song": "Ring of Fire",
+    "artist": "Johnny Cash",
+    "genre": "country",
+    "era": "1960s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "acoustic / Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/ring-of-fire--johnny-cash--riff--clean--guitar/"
+  },
+  {
+    "song": "Wagon Wheel",
+    "artist": "Old Crow Medicine Show",
+    "genre": "country",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/wagon-wheel--old-crow-medicine-show--riff--clean--guitar/"
+  },
+  {
+    "song": "Take It Easy",
+    "artist": "Eagles",
+    "genre": "country rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/take-it-easy--eagles--riff--distorted--guitar/"
+  },
+  {
+    "song": "On the Road Again",
+    "artist": "Willie Nelson",
+    "genre": "country",
+    "era": "1980s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Baldwin / clean",
+      "notes": "",
+      "guitar": "Martin nylon (\"Trigger\")",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/on-the-road-again--willie-nelson--riff--clean--guitar/"
+  },
+  {
+    "song": "The Devil Went Down to Georgia",
+    "artist": "Charlie Daniels Band",
+    "genre": "country rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/the-devil-went-down-to-georgia--charlie-daniels-band--riff--distorted--guitar/"
+  },
+  {
+    "song": "Chicken Fried",
+    "artist": "Zac Brown Band",
+    "genre": "country",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "acoustic + Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/chicken-fried--zac-brown-band--riff--clean--guitar/"
+  },
+  {
+    "song": "Jolene",
+    "artist": "Dolly Parton",
+    "genre": "country",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar (capo)",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/jolene--dolly-parton--riff--clean--guitar/"
+  },
+  {
+    "song": "Take Me Home Country Roads",
+    "artist": "John Denver",
+    "genre": "country",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/take-me-home-country-roads--john-denver--riff--clean--guitar/"
+  },
+  {
+    "song": "Copperhead Road",
+    "artist": "Steve Earle",
+    "genre": "country rock",
+    "era": "1980s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 6,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "electric + mandolin",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/copperhead-road--steve-earle--riff--distorted--guitar/"
+  },
+  {
+    "song": "Friends in Low Places",
+    "artist": "Garth Brooks",
+    "genre": "country",
+    "era": "1990s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/friends-in-low-places--garth-brooks--riff--clean--guitar/"
+  },
+  {
+    "song": "Hurt",
+    "artist": "Johnny Cash",
+    "genre": "country",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/hurt--johnny-cash--riff--clean--guitar/"
+  },
+  {
+    "song": "Somebody Told Me",
+    "artist": "The Killers",
+    "genre": "indie rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Vox",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/somebody-told-me--the-killers--riff--distorted--guitar/"
+  },
+  {
+    "song": "When You Were Young",
+    "artist": "The Killers",
+    "genre": "indie rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "delay"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/when-you-were-young--the-killers--riff--distorted--guitar/"
+  },
+  {
+    "song": "Why d You Only Call Me When You re High",
+    "artist": "Arctic Monkeys",
+    "genre": "indie rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Vox",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [
+      "reverb",
+      "light overdrive"
+    ],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/why-d-you-only-call-me-when-you-re-high--arctic-monkeys--riff--distorted--guitar/"
+  },
+  {
+    "song": "Fluorescent Adolescent",
+    "artist": "Arctic Monkeys",
+    "genre": "indie rock",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Vox / Fender",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/fluorescent-adolescent--arctic-monkeys--riff--clean--guitar/"
+  },
+  {
+    "song": "Last Nite",
+    "artist": "The Strokes",
+    "genre": "garage rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Vox",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/last-nite--the-strokes--riff--distorted--guitar/"
+  },
+  {
+    "song": "Someday",
+    "artist": "The Strokes",
+    "genre": "garage rock",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Vox",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/someday--the-strokes--riff--clean--guitar/"
+  },
+  {
+    "song": "Elephant",
+    "artist": "Tame Impala",
+    "genre": "psychedelic rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 5,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "fuzz-driven amp",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "fuzz"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/elephant--tame-impala--riff--distorted--guitar/"
+  },
+  {
+    "song": "Chocolate",
+    "artist": "The 1975",
+    "genre": "indie pop",
+    "era": "2010s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "clean amp",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [
+      "chorus",
+      "delay"
+    ],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/chocolate--the-1975--riff--clean--guitar/"
+  },
+  {
+    "song": "Are You Gonna Be My Girl",
+    "artist": "Jet",
+    "genre": "garage rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall",
+      "notes": "",
+      "guitar": "Gibson",
+      "pickups": "bridge humbucker"
+    },
+    "effects": [],
+    "pickup": "bridge humbucker",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/are-you-gonna-be-my-girl--jet--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sex on Fire",
+    "artist": "Kings of Leon",
+    "genre": "indie rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "delay"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sex-on-fire--kings-of-leon--riff--distorted--guitar/"
+  },
+  {
+    "song": "Use Somebody",
+    "artist": "Kings of Leon",
+    "genre": "indie rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "delay"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/use-somebody--kings-of-leon--riff--distorted--guitar/"
+  },
+  {
+    "song": "Feel Good Inc",
+    "artist": "Gorillaz",
+    "genre": "alternative",
+    "era": "2000s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 6,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "clean amp / DI",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/feel-good-inc--gorillaz--riff--clean--guitar/"
+  },
+  {
+    "song": "Dan",
+    "artist": "Sheila on 7",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/dan--sheila-on-7--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sephia",
+    "artist": "Sheila on 7",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sephia--sheila-on-7--riff--distorted--guitar/"
+  },
+  {
+    "song": "Pupus",
+    "artist": "Dewa 19",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/pupus--dewa-19--riff--distorted--guitar/"
+  },
+  {
+    "song": "Kangen",
+    "artist": "Dewa 19",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/kangen--dewa-19--riff--distorted--guitar/"
+  },
+  {
+    "song": "Ada Apa Denganmu",
+    "artist": "Peterpan",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/ada-apa-denganmu--peterpan--riff--distorted--guitar/"
+  },
+  {
+    "song": "Separuh Aku",
+    "artist": "Noah",
+    "genre": "pop rock",
+    "era": "2010s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/separuh-aku--noah--riff--distorted--guitar/"
+  },
+  {
+    "song": "Terlalu Manis",
+    "artist": "Slank",
+    "genre": "rock",
+    "era": "1990s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 7,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/terlalu-manis--slank--riff--distorted--guitar/"
+  },
+  {
+    "song": "11 Januari",
+    "artist": "Gigi",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/11-januari--gigi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Sobat",
+    "artist": "Padi",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sobat--padi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Selamat Ulang Tahun",
+    "artist": "Jamrud",
+    "genre": "hard rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/selamat-ulang-tahun--jamrud--riff--distorted--guitar/"
+  },
+  {
+    "song": "Kuat Kita Bersinar",
+    "artist": "Superman Is Dead",
+    "genre": "punk rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/kuat-kita-bersinar--superman-is-dead--riff--distorted--guitar/"
+  },
+  {
+    "song": "Beraksi",
+    "artist": "Kotak",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 7,
+      "bass": 6,
+      "mid": 6,
+      "treble": 7,
+      "presence": 6,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/beraksi--kotak--riff--distorted--guitar/"
+  },
+  {
+    "song": "Roman Picisan",
+    "artist": "Dewa 19",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/roman-picisan--dewa-19--riff--distorted--guitar/"
+  },
+  {
+    "song": "Melompat Lebih Tinggi",
+    "artist": "Sheila on 7",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/melompat-lebih-tinggi--sheila-on-7--riff--distorted--guitar/"
+  },
+  {
+    "song": "Mungkin Nanti",
+    "artist": "Peterpan",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/mungkin-nanti--peterpan--riff--distorted--guitar/"
+  },
+  {
+    "song": "Semua Tak Sama",
+    "artist": "Padi",
+    "genre": "rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 6,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/semua-tak-sama--padi--riff--distorted--guitar/"
+  },
+  {
+    "song": "Demi Waktu",
+    "artist": "Ungu",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/demi-waktu--ungu--riff--distorted--guitar/"
+  },
+  {
+    "song": "Laskar Pelangi",
+    "artist": "Nidji",
+    "genre": "pop rock",
+    "era": "2000s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 5,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Marshall / Fender",
+      "notes": "",
+      "guitar": "Fender / Gibson",
+      "pickups": "bridge pickup"
+    },
+    "effects": [],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/laskar-pelangi--nidji--riff--distorted--guitar/"
+  },
+  {
+    "song": "No Woman No Cry",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/no-woman-no-cry--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "Redemption Song",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1980s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 1,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "acoustic / DI",
+      "notes": "",
+      "guitar": "acoustic guitar",
+      "pickups": "acoustic"
+    },
+    "effects": [],
+    "pickup": "acoustic",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/redemption-song--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "Three Little Birds",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/three-little-birds--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "Could You Be Loved",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1980s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/could-you-be-loved--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "Is This Love",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/is-this-love--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "One Love",
+    "artist": "Bob Marley",
+    "genre": "reggae",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Stratocaster",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/one-love--bob-marley--riff--clean--guitar/"
+  },
+  {
+    "song": "Roxanne",
+    "artist": "The Police",
+    "genre": "reggae rock",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 3
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall (clean)",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "chorus",
+      "reverb"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/roxanne--the-police--riff--clean--guitar/"
+  },
+  {
+    "song": "So Lonely",
+    "artist": "The Police",
+    "genre": "reggae rock",
+    "era": "1970s",
+    "tone_type": "distorted",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 4,
+      "bass": 5,
+      "mid": 5,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender / Marshall",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "bridge pickup"
+    },
+    "effects": [
+      "chorus"
+    ],
+    "pickup": "bridge pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/so-lonely--the-police--riff--distorted--guitar/"
+  },
+  {
+    "song": "My Girl",
+    "artist": "The Temptations",
+    "genre": "soul",
+    "era": "1960s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/my-girl--the-temptations--riff--clean--guitar/"
+  },
+  {
+    "song": "Aint No Sunshine",
+    "artist": "Bill Withers",
+    "genre": "soul",
+    "era": "1970s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 3,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender / hollowbody",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/aint-no-sunshine--bill-withers--riff--clean--guitar/"
+  },
+  {
+    "song": "Sittin on the Dock of the Bay",
+    "artist": "Otis Redding",
+    "genre": "soul",
+    "era": "1960s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 6,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender Telecaster",
+      "pickups": "neck pickup"
+    },
+    "effects": [],
+    "pickup": "neck pickup",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/sittin-on-the-dock-of-the-bay--otis-redding--riff--clean--guitar/"
+  },
+  {
+    "song": "Red Red Wine",
+    "artist": "UB40",
+    "genre": "reggae",
+    "era": "1980s",
+    "tone_type": "clean",
+    "part": "riff",
+    "amp_settings": {
+      "gain": 2,
+      "bass": 5,
+      "mid": 6,
+      "treble": 7,
+      "presence": 5,
+      "reverb": 2
+    },
+    "original_gear": {
+      "amp": "Fender (clean)",
+      "notes": "",
+      "guitar": "Fender",
+      "pickups": "bridge single-coil"
+    },
+    "effects": [],
+    "pickup": "bridge single-coil",
+    "confidence": 0.6,
+    "sources": [],
+    "url": "https://guitartoneadapt.com/tone/red-red-wine--ub40--riff--clean--guitar/"
   }
 ]
