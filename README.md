@@ -1,8 +1,8 @@
 # Guitar Tone Dataset
 
-An open dataset of **researched guitar tones for 948+ famous songs** — the original gear (guitar, amp, pedals) and starting amp settings (gain, bass, mid, treble, presence, reverb) behind iconic riffs, with source citations.
+An open dataset of **researched guitar tones for 1,100+ famous songs** — the original gear (guitar, amp, pedals) and starting amp settings (gain, bass, mid, treble, presence, reverb) behind iconic riffs, with source citations.
 
-Maintained by **[GuitarToneAdapt](https://guitartoneadapt.com)** — a free web app that re-dials any famous song's guitar tone for the specific guitar, amp and pedals *you* own.
+Maintained by **[GuitarToneAdapt](https://guitartoneadapt.com)** — a free web app that re-dials any famous song's guitar tone for the specific guitar, amp and pedals *you* own. Browse by [effect](https://guitartoneadapt.com/effects/), [best guitar solos](https://guitartoneadapt.com/guitar-solos/), [best riffs](https://guitartoneadapt.com/guitar-riffs/) and [bass tones](https://guitartoneadapt.com/bass-guitar-tones/).
 
 ## What's in it
 
