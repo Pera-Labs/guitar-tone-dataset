@@ -36688,5 +36688,759 @@
   "confidence": "medium",
   "sources": [],
   "url": "https://guitartoneadapt.com/tone/guitars-cadillacs--dwight-yoakam--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Through the Fire and Flames",
+  "artist": "DragonForce",
+  "genre": "power metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 5,
+   "mid": 6,
+   "treble": 8,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "Ibanez",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/through-the-fire-and-flames--dragonforce--riff--distorted--guitar/"
+ },
+ {
+  "song": "Nemo",
+  "artist": "Nightwish",
+  "genre": "symphonic metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 6,
+   "mid": 5,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "ESP / down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/nemo--nightwish--riff--distorted--guitar/"
+ },
+ {
+  "song": "Twilight of the Thunder God",
+  "artist": "Amon Amarth",
+  "genre": "melodic death metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 6,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/twilight-of-the-thunder-god--amon-amarth--riff--distorted--guitar/"
+ },
+ {
+  "song": "Only for the Weak",
+  "artist": "In Flames",
+  "genre": "melodic death metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 6,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/only-for-the-weak--in-flames--riff--distorted--guitar/"
+ },
+ {
+  "song": "Blinded by Fear",
+  "artist": "At the Gates",
+  "genre": "melodic death metal",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 6,
+   "mid": 6,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/blinded-by-fear--at-the-gates--riff--distorted--guitar/"
+ },
+ {
+  "song": "Nemesis",
+  "artist": "Arch Enemy",
+  "genre": "melodic death metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 6,
+   "mid": 6,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/nemesis--arch-enemy--riff--distorted--guitar/"
+ },
+ {
+  "song": "I Want Out",
+  "artist": "Helloween",
+  "genre": "power metal",
+  "era": "1980s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "Gibson / ESP",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/i-want-out--helloween--riff--distorted--guitar/"
+ },
+ {
+  "song": "Nightfall",
+  "artist": "Blind Guardian",
+  "genre": "power metal",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "ESP",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/nightfall--blind-guardian--riff--distorted--guitar/"
+ },
+ {
+  "song": "Primo Victoria",
+  "artist": "Sabaton",
+  "genre": "power metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 6,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "ESP",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/primo-victoria--sabaton--riff--distorted--guitar/"
+ },
+ {
+  "song": "Ice Queen",
+  "artist": "Within Temptation",
+  "genre": "symphonic metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 6,
+   "mid": 5,
+   "treble": 6,
+   "presence": 6,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/ice-queen--within-temptation--riff--distorted--guitar/"
+ },
+ {
+  "song": "Nothing Left",
+  "artist": "As I Lay Dying",
+  "genre": "metalcore",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 9,
+   "bass": 6,
+   "mid": 5,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/nothing-left--as-i-lay-dying--riff--distorted--guitar/"
+ },
+ {
+  "song": "Composure",
+  "artist": "August Burns Red",
+  "genre": "metalcore",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 9,
+   "bass": 6,
+   "mid": 5,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/composure--august-burns-red--riff--distorted--guitar/"
+ },
+ {
+  "song": "Fullmoon",
+  "artist": "Sonata Arctica",
+  "genre": "power metal",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "ESP",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/fullmoon--sonata-arctica--riff--distorted--guitar/"
+ },
+ {
+  "song": "This Is Exile",
+  "artist": "Whitechapel",
+  "genre": "deathcore",
+  "era": "2000s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 9,
+   "bass": 6,
+   "mid": 5,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "high-gain amp",
+   "guitar": "7-string / down-tuned",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge humbucker",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/this-is-exile--whitechapel--riff--distorted--guitar/"
+ },
+ {
+  "song": "Truckin",
+  "artist": "Grateful Dead",
+  "genre": "jam rock",
+  "era": "1970s",
+  "tone_type": "overdriven",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 3,
+   "bass": 5,
+   "mid": 6,
+   "treble": 6,
+   "presence": 5,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "Fender (clean/edge)",
+   "guitar": "Fender Stratocaster",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "neck/middle",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/truckin--grateful-dead--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Damn Right Ive Got the Blues",
+  "artist": "Buddy Guy",
+  "genre": "blues",
+  "era": "1990s",
+  "tone_type": "overdriven",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 5,
+   "bass": 5,
+   "mid": 6,
+   "treble": 6,
+   "presence": 5,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "Fender Bassman",
+   "guitar": "Fender Stratocaster",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge/neck",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/damn-right-ive-got-the-blues--buddy-guy--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Stormy Monday",
+  "artist": "T-Bone Walker",
+  "genre": "blues",
+  "era": "1940s",
+  "tone_type": "overdriven",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 3,
+   "bass": 6,
+   "mid": 6,
+   "treble": 5,
+   "presence": 4,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "tube amp (edge)",
+   "guitar": "hollowbody / archtop",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "neck",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/stormy-monday--t-bone-walker--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Bo Diddley",
+  "artist": "Bo Diddley",
+  "genre": "rock and roll",
+  "era": "1950s",
+  "tone_type": "overdriven",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 4,
+   "bass": 6,
+   "mid": 6,
+   "treble": 5,
+   "presence": 4,
+   "reverb": 4
+  },
+  "original_gear": {
+   "amp": "tremolo amp",
+   "guitar": "Gretsch (rectangular)",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "neck",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/bo-diddley--bo-diddley--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Rock This Town",
+  "artist": "Stray Cats",
+  "genre": "rockabilly",
+  "era": "1980s",
+  "tone_type": "overdriven",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 4,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 4
+  },
+  "original_gear": {
+   "amp": "Fender / tweed",
+   "guitar": "Gretsch 6120",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/rock-this-town--stray-cats--riff--overdriven--guitar/"
+ },
+ {
+  "song": "Just a Girl",
+  "artist": "No Doubt",
+  "genre": "ska punk",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 6,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall / Mesa",
+   "guitar": "Fender / Gibson",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/just-a-girl--no-doubt--riff--distorted--guitar/"
+ },
+ {
+  "song": "American Jesus",
+  "artist": "Bad Religion",
+  "genre": "punk rock",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Gibson Les Paul",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/american-jesus--bad-religion--riff--distorted--guitar/"
+ },
+ {
+  "song": "Linoleum",
+  "artist": "NOFX",
+  "genre": "punk rock",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Fender",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/linoleum--nofx--riff--distorted--guitar/"
+ },
+ {
+  "song": "Last Caress",
+  "artist": "Misfits",
+  "genre": "horror punk",
+  "era": "1980s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 6,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Gibson Les Paul",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/last-caress--misfits--riff--distorted--guitar/"
+ },
+ {
+  "song": "Bro Hymn",
+  "artist": "Pennywise",
+  "genre": "punk rock",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Gibson",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/bro-hymn--pennywise--riff--distorted--guitar/"
+ },
+ {
+  "song": "Legalize It",
+  "artist": "Peter Tosh",
+  "genre": "reggae",
+  "era": "1970s",
+  "tone_type": "clean",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 2,
+   "bass": 6,
+   "mid": 6,
+   "treble": 5,
+   "presence": 4,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "Fender (clean)",
+   "guitar": "Fender Stratocaster",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "neck",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/legalize-it--peter-tosh--riff--clean--guitar/"
+ },
+ {
+  "song": "Sell Out",
+  "artist": "Reel Big Fish",
+  "genre": "ska punk",
+  "era": "1990s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 6,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Fender",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/sell-out--reel-big-fish--riff--distorted--guitar/"
+ },
+ {
+  "song": "Cissy Strut",
+  "artist": "The Meters",
+  "genre": "funk",
+  "era": "1960s",
+  "tone_type": "clean",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 2,
+   "bass": 5,
+   "mid": 7,
+   "treble": 6,
+   "presence": 5,
+   "reverb": 2
+  },
+  "original_gear": {
+   "amp": "Fender (clean)",
+   "guitar": "Fender Telecaster",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/cissy-strut--the-meters--riff--clean--guitar/"
+ },
+ {
+  "song": "Suffer",
+  "artist": "Descendents",
+  "genre": "punk rock",
+  "era": "1980s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 7,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 6,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Fender",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/suffer--descendents--riff--distorted--guitar/"
+ },
+ {
+  "song": "Sailin On",
+  "artist": "Bad Brains",
+  "genre": "hardcore punk",
+  "era": "1980s",
+  "tone_type": "distorted",
+  "part": "riff",
+  "amp_settings": {
+   "gain": 8,
+   "bass": 5,
+   "mid": 6,
+   "treble": 7,
+   "presence": 7,
+   "reverb": 1
+  },
+  "original_gear": {
+   "amp": "Marshall",
+   "guitar": "Gibson SG",
+   "notes": ""
+  },
+  "effects": [],
+  "pickup": "bridge",
+  "confidence": "medium",
+  "sources": [],
+  "url": "https://guitartoneadapt.com/tone/sailin-on--bad-brains--riff--distorted--guitar/"
  }
 ]
